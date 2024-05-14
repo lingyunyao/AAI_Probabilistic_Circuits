@@ -1,0 +1,8 @@
+{
+    "dna_8_6_app_MAP": {
+        "numerical_loss_before": "none",
+        "numerical_loss_after": "none",
+        "string_accuracy": 0.9996122222222222,
+        "normalization_constant": "none"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "jester_9_4_float_MAR": {
+        "numerical_loss_before": 2.2292421421587387,
+        "numerical_loss_after": 2.2292421421587387,
+        "string_accuracy": "none",
+        "normalization_constant": "none"
+    }
+}

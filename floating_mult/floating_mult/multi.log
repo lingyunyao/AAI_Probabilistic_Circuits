@@ -1,0 +1,2400 @@
+The first decimalNumber_1: 2549.0522
+The first Exponent: 138 , 10001010
+The first Significand: 2052310, 111110101000011010110
+The second decimalNumber_2: 8230.812
+The second Exponent: 140, 10001100
+The second Significand: 39743, 1001101100111111
+The result: 2.0980768E7
+The result of decimalNumber_1*decimalNumber_2: 2.0980768E7
+The result Exponent: 24, 11000
+The result Significand: 1.2505512237548828, 11111111110100000000100100001000000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 8739.105
+The first Exponent: 140 , 10001100
+The first Significand: 560236, 10001000110001101100
+The second decimalNumber_2: 9543.407
+The second Exponent: 140, 10001100
+The second Significand: 1383841, 101010001110110100001
+The result: 8.340084E7
+The result of decimalNumber_1*decimalNumber_2: 8.340084E7
+The result Exponent: 26, 11010
+The result Significand: 1.2427693605422974, 11111111110011111000100110001000100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 1937.4465
+The first Exponent: 137 , 10001001
+The first Significand: 7482954, 11100100010111001001010
+The second decimalNumber_2: 4407.805
+The second Exponent: 139, 10001011
+The second Significand: 638577, 10011011111001110001
+The result: 8539887.0
+The result of decimalNumber_1*decimalNumber_2: 8539887.0
+The result Exponent: 23, 10111
+The result Significand: 1.0180338621139526, 11111111110000010010011101110111100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 7629.454
+The first Exponent: 139 , 10001011
+The first Significand: 7236514, 11011100110101110100010
+The second decimalNumber_2: 4992.8057
+The second Exponent: 139, 10001011
+The second Significand: 1836658, 111000000011001110010
+The result: 3.809238E7
+The result of decimalNumber_1*decimalNumber_2: 3.809238E7
+The result Exponent: 25, 11001
+The result Significand: 1.1352413892745972, 11111111110010001010011111001011100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 5772.129
+The first Exponent: 139 , 10001011
+The first Significand: 3432712, 1101000110000100001000
+The second decimalNumber_2: 7813.724
+The second Exponent: 139, 10001011
+The second Significand: 7613899, 11101000010110111001011
+The result: 4.5101824E7
+The result of decimalNumber_1*decimalNumber_2: 4.5101824E7
+The result Exponent: 25, 11001
+The result Significand: 1.3441390991210938, 11111111110101100000011001100000000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 8127.3984
+The first Exponent: 139 , 10001011
+The first Significand: 8256304, 11111011111101100110000
+The second decimalNumber_2: 5343.034
+The second Exponent: 139, 10001011
+The second Significand: 2553926, 1001101111100001000110
+The result: 4.3424968E7
+The result of decimalNumber_1*decimalNumber_2: 4.3424968E7
+The result Exponent: 25, 11001
+The result Significand: 1.2941648960113525, 11111111110100101101001110011001000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 3156.6184
+The first Exponent: 138 , 10001010
+The first Significand: 4540901, 10001010100100111100101
+The second decimalNumber_2: 9788.019
+The second Exponent: 140, 10001100
+The second Significand: 1634323, 110001111000000010011
+The result: 3.089704E7
+The result of decimalNumber_1*decimalNumber_2: 3.089704E7
+The result Exponent: 24, 11000
+The result Significand: 1.8416070938110352, 11111111111101011101110011100100000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 11.355281
+The first Exponent: 130 , 10000010
+The first Significand: 3518267, 1101011010111100111011
+The second decimalNumber_2: 7303.115
+The second Exponent: 139, 10001011
+The second Significand: 6568172, 11001000011100011101100
+The result: 82928.921875
+The result of decimalNumber_1*decimalNumber_2: 82928.92
+The result Exponent: 16, 10000
+The result Significand: 1.265394926071167, 11111111110100001111110000111011000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 6311.8447
+The first Exponent: 139 , 10001011
+The first Significand: 4538050, 10001010011111011000010
+The second decimalNumber_2: 2699.2964
+The second Exponent: 138, 10001010
+The second Significand: 2667710, 1010001011010010111110
+The result: 1.703754E7
+The result of decimalNumber_1*decimalNumber_2: 1.703754E7
+The result Exponent: 24, 11000
+The result Significand: 1.0155165195465088, 11111111110000001111111000111001000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 3229.4995
+The first Exponent: 138 , 10001010
+The first Significand: 4839422, 10010011101011111111110
+The second decimalNumber_2: 568.8685
+The second Exponent: 136, 10001000
+The second Significand: 931734, 11100011011110010110
+The result: 1837160.625
+The result of decimalNumber_1*decimalNumber_2: 1837160.6
+The result Exponent: 20, 10100
+The result Significand: 1.752052903175354, 11111111111100000010000110100010100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 309.85297
+The first Exponent: 135 , 10000111
+The first Significand: 1764654, 110101110110100101110
+The second decimalNumber_2: 1720.3468
+The second Exponent: 137, 10001001
+The second Significand: 5704473, 10101110000101100011001
+The result: 533054.5625
+The result of decimalNumber_1*decimalNumber_2: 533054.56
+The result Exponent: 19, 10011
+The result Significand: 1.0167208909988403, 11111111110000010001000111110100100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 5888.9365
+The first Exponent: 139 , 10001011
+The first Significand: 3671934, 1110000000011101111110
+The second decimalNumber_2: 3453.834
+The second Exponent: 138, 10001010
+The second Significand: 5758296, 10101111101110101011000
+The result: 2.033941E7
+The result of decimalNumber_1*decimalNumber_2: 2.033941E7
+The result Exponent: 24, 11000
+The result Significand: 1.2123233079910278, 11111111110011011001011010110100100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 7995.4707
+The first Exponent: 139 , 10001011
+The first Significand: 7986116, 11110011101101111000100
+The second decimalNumber_2: 4833.69
+The second Exponent: 139, 10001011
+The second Significand: 1510789, 101110000110110000101
+The result: 3.8647628E7
+The result of decimalNumber_1*decimalNumber_2: 3.8647628E7
+The result Exponent: 25, 11001
+The result Significand: 1.1517890691757202, 11111111110010011011011011101001100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 7682.641
+The first Exponent: 139 , 10001011
+The first Significand: 7345441, 11100000001010100100001
+The second decimalNumber_2: 3466.571
+The second Exponent: 138, 10001010
+The second Significand: 5810467, 10110001010100100100011
+The result: 2.6632422E7
+The result of decimalNumber_1*decimalNumber_2: 2.6632422E7
+The result Exponent: 24, 11000
+The result Significand: 1.5874160528182983, 11111111111001011001100000111001100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 3017.782
+The first Exponent: 138 , 10001010
+The first Significand: 3972227, 1111001001110010000011
+The second decimalNumber_2: 890.0422
+The second Exponent: 136, 10001000
+The second Significand: 6193843, 10111101000001010110011
+The result: 2685953.25
+The result of decimalNumber_1*decimalNumber_2: 2685953.2
+The result Exponent: 21, 10101
+The result Significand: 1.2807623147964478, 11111111110100011111100000000010100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 9638.692
+The first Exponent: 140 , 10001100
+The first Significand: 1481413, 101101001101011000101
+The second decimalNumber_2: 5353.4473
+The second Exponent: 139, 10001011
+The second Significand: 2575252, 1001110100101110010100
+The result: 5.1600232E7
+The result of decimalNumber_1*decimalNumber_2: 5.1600232E7
+The result Exponent: 25, 11001
+The result Significand: 1.537806749343872, 11111111111000100110101101101101000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 5567.7275
+The first Exponent: 139 , 10001011
+The first Significand: 3014098, 1011011111110111010010
+The second decimalNumber_2: 4915.551
+The second Exponent: 139, 10001011
+The second Significand: 1678440, 110011001110001101000
+The result: 2.7368448E7
+The result of decimalNumber_1*decimalNumber_2: 2.7368448E7
+The result Exponent: 24, 11000
+The result Significand: 1.63128662109375, 11111111111010000110011100000000000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 686.65326
+The first Exponent: 136 , 10001000
+The first Significand: 2861519, 1010111010100111001111
+The second decimalNumber_2: 4149.5244
+The second Exponent: 139, 10001011
+The second Significand: 109618, 11010110000110010
+The result: 2849284.5
+The result of decimalNumber_1*decimalNumber_2: 2849284.5
+The result Exponent: 21, 10101
+The result Significand: 1.358644723892212, 11111111110101101111010000001001000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 8661.008
+The first Exponent: 140 , 10001100
+The first Significand: 480264, 1110101010000001000
+The second decimalNumber_2: 7628.191
+The second Exponent: 139, 10001011
+The second Significand: 7233927, 11011100110000110000111
+The result: 6.606782E7
+The result of decimalNumber_1*decimalNumber_2: 6.606782E7
+The result Exponent: 25, 11001
+The result Significand: 1.9689744710922241, 11111111111111100000001110101101100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 7002.4795
+The first Exponent: 139 , 10001011
+The first Significand: 5952470, 10110101101001111010110
+The second decimalNumber_2: 3984.3647
+The second Exponent: 138, 10001010
+The second Significand: 7931350, 11110010000010111010110
+The result: 2.7900432E7
+The result of decimalNumber_1*decimalNumber_2: 2.7900432E7
+The result Exponent: 24, 11000
+The result Significand: 1.6629953384399414, 11111111111010100110111010000100000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 9468.3545
+The first Exponent: 140 , 10001100
+The first Significand: 1306987, 100111111000101101011
+The second decimalNumber_2: 9428.1
+The second Exponent: 140, 10001100
+The second Significand: 1265766, 100110101000001100110
+The result: 8.9268592E7
+The result of decimalNumber_1*decimalNumber_2: 8.9268592E7
+The result Exponent: 26, 11010
+The result Significand: 1.3302056789398193, 11111111110101010010001000010111000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 7983.2563
+The first Exponent: 139 , 10001011
+The first Significand: 7961101, 11110010111101000001101
+The second decimalNumber_2: 7193.504
+The second Exponent: 139, 10001011
+The second Significand: 6343688, 11000001100110000001000
+The result: 5.7427584E7
+The result of decimalNumber_1*decimalNumber_2: 5.7427584E7
+The result Exponent: 25, 11001
+The result Significand: 1.7114753723144531, 11111111111011011000100011010000000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 8175.3125
+The first Exponent: 139 , 10001011
+The first Significand: 8354432, 11111110111101010000000
+The second decimalNumber_2: 5919.562
+The second Exponent: 139, 10001011
+The second Significand: 3734655, 1110001111110001111111
+The result: 4.8394268E7
+The result of decimalNumber_1*decimalNumber_2: 4.8394268E7
+The result Exponent: 25, 11001
+The result Significand: 1.4422615766525269, 11111111110111000100111000000011100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 6732.214
+The first Exponent: 139 , 10001011
+The first Significand: 5398966, 10100100110000110110110
+The second decimalNumber_2: 6272.7915
+The second Exponent: 139, 10001011
+The second Significand: 4458069, 10001000000011001010101
+The result: 4.2229772E7
+The result of decimalNumber_1*decimalNumber_2: 4.2229772E7
+The result Exponent: 25, 11001
+The result Significand: 1.2585452795028687, 11111111110100001000110000000001100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 230.71706
+The first Exponent: 134 , 10000110
+The first Significand: 6731665, 11001101011011110010001
+The second decimalNumber_2: 1072.849
+The second Exponent: 137, 10001001
+The second Significand: 400171, 1100001101100101011
+The result: 247524.5625
+The result of decimalNumber_1*decimalNumber_2: 247524.56
+The result Exponent: 17, 10001
+The result Significand: 1.8884625434875488, 11111111111110001101110010010010000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 5505.3174
+The first Exponent: 139 , 10001011
+The first Significand: 2886282, 1011000000101010001010
+The second decimalNumber_2: 5160.2764
+The second Exponent: 139, 10001011
+The second Significand: 2179638, 1000010100001000110110
+The result: 2.840896E7
+The result of decimalNumber_1*decimalNumber_2: 2.840896E7
+The result Exponent: 24, 11000
+The result Significand: 1.6933059692382812, 11111111111011000101111100100000000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 377.75278
+The first Exponent: 135 , 10000111
+The first Significand: 3989595, 1111001110000001011011
+The second decimalNumber_2: 4543.5913
+The second Exponent: 139, 10001011
+The second Significand: 916667, 11011111110010111011
+The result: 1716354.25
+The result of decimalNumber_1*decimalNumber_2: 1716354.2
+The result Exponent: 20, 10100
+The result Significand: 1.636842966079712, 11111111111010001100001000001001000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 3168.9607
+The first Exponent: 138 , 10001010
+The first Significand: 4591455, 10001100000111101011111
+The second decimalNumber_2: 8288.214
+The second Exponent: 140, 10001100
+The second Significand: 98523, 11000000011011011
+The result: 2.6265024E7
+The result of decimalNumber_1*decimalNumber_2: 2.6265024E7
+The result Exponent: 24, 11000
+The result Significand: 1.5655174255371094, 11111111111001000011000101110000000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 8607.281
+The first Exponent: 140 , 10001100
+The first Significand: 425248, 1100111110100100000
+The second decimalNumber_2: 4564.8853
+The second Exponent: 139, 10001011
+The second Significand: 960277, 11101010011100010101
+The result: 3.9291252E7
+The result of decimalNumber_1*decimalNumber_2: 3.9291252E7
+The result Exponent: 25, 11001
+The result Significand: 1.1709705591201782, 11111111110010101111000100101110100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 7995.994
+The first Exponent: 139 , 10001011
+The first Significand: 7987188, 11110011101111111110100
+The second decimalNumber_2: 3258.9941
+The second Exponent: 138, 10001010
+The second Significand: 4960232, 10010111010111111101000
+The result: 2.6058898E7
+The result of decimalNumber_1*decimalNumber_2: 2.6058898E7
+The result Exponent: 24, 11000
+The result Significand: 1.5532313585281372, 11111111111000110110100000100100100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 7306.9478
+The first Exponent: 139 , 10001011
+The first Significand: 6576021, 11001000101011110010101
+The second decimalNumber_2: 8714.865
+The second Exponent: 140, 10001100
+The second Significand: 535414, 10000010101101110110
+The result: 6.3679064E7
+The result of decimalNumber_1*decimalNumber_2: 6.3679064E7
+The result Exponent: 25, 11001
+The result Significand: 1.8977839946746826, 11111111111110010111010101001011000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 7398.09
+The first Exponent: 139 , 10001011
+The first Significand: 6762680, 11001110011000010111000
+The second decimalNumber_2: 5019.57
+The second Exponent: 139, 10001011
+The second Significand: 1891471, 111001101110010001111
+The result: 3.7135228E7
+The result of decimalNumber_1*decimalNumber_2: 3.7135228E7
+The result Exponent: 25, 11001
+The result Significand: 1.1067160367965698, 11111111110001101101010001101111100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 7253.732
+The first Exponent: 139 , 10001011
+The first Significand: 6467035, 11000101010110111011011
+The second decimalNumber_2: 4746.752
+The second Exponent: 139, 10001011
+The second Significand: 1332740, 101000101011000000100
+The result: 3.4431668E7
+The result of decimalNumber_1*decimalNumber_2: 3.4431668E7
+The result Exponent: 25, 11001
+The result Significand: 1.0261436700820923, 11111111110000011010110001010110100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 7290.79
+The first Exponent: 139 , 10001011
+The first Significand: 6542930, 11000111101011001010010
+The second decimalNumber_2: 1142.2622
+The second Exponent: 137, 10001001
+The second Significand: 968804, 11101100100001100100
+The result: 8327994.0
+The result of decimalNumber_1*decimalNumber_2: 8327994.0
+The result Exponent: 22, 10110
+The result Significand: 1.985548496246338, 11111111111111110001001100111010000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 3750.1956
+The first Exponent: 138 , 10001010
+The first Significand: 6972193, 11010100110001100100001
+The second decimalNumber_2: 6829.9023
+The second Exponent: 139, 10001011
+The second Significand: 5599032, 10101010110111100111000
+The result: 2.561347E7
+The result of decimalNumber_1*decimalNumber_2: 2.561347E7
+The result Exponent: 24, 11000
+The result Significand: 1.5266817808151245, 11111111111000011011010100100111100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 5990.0845
+The first Exponent: 139 , 10001011
+The first Significand: 3879085, 1110110011000010101101
+The second decimalNumber_2: 5376.192
+The second Exponent: 139, 10001011
+The second Significand: 2621833, 1010000000000110001001
+The result: 3.2203844E7
+The result of decimalNumber_1*decimalNumber_2: 3.2203844E7
+The result Exponent: 24, 11000
+The result Significand: 1.9194986820220947, 11111111111110101101100100010001000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 8208.775
+The first Exponent: 140 , 10001100
+The first Significand: 17178, 100001100011010
+The second decimalNumber_2: 2877.0757
+The second Exponent: 138, 10001010
+The second Significand: 3395894, 1100111101000100110110
+The result: 2.3617268E7
+The result of decimalNumber_1*decimalNumber_2: 2.3617268E7
+The result Exponent: 24, 11000
+The result Significand: 1.4076988697052002, 11111111110110100001011110111101000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 948.382
+The first Exponent: 136 , 10001000
+The first Significand: 7149683, 11011010001100001110011
+The second decimalNumber_2: 7712.61
+The second Exponent: 139, 10001011
+The second Significand: 7406817, 11100010000010011100001
+The result: 7314500.5
+The result of decimalNumber_1*decimalNumber_2: 7314500.5
+The result Exponent: 22, 10110
+The result Significand: 1.7439128160476685, 11111111111011111001110001000100100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 8905.7295
+The first Exponent: 140 , 10001100
+The first Significand: 730859, 10110010011011101011
+The second decimalNumber_2: 8420.972
+The second Exponent: 140, 10001100
+The second Significand: 234467, 111001001111100011
+The result: 7.4994896E7
+The result of decimalNumber_1*decimalNumber_2: 7.4994896E7
+The result Exponent: 26, 11010
+The result Significand: 1.1175110340118408, 11111111110001111000010101001101000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 7617.4355
+The first Exponent: 139 , 10001011
+The first Significand: 7211900, 11011100000101101111100
+The second decimalNumber_2: 8390.642
+The second Exponent: 140, 10001100
+The second Significand: 203409, 110001101010010001
+The result: 6.3915172E7
+The result of decimalNumber_1*decimalNumber_2: 6.3915172E7
+The result Exponent: 25, 11001
+The result Significand: 1.9048205614089966, 11111111111110011110100010010100100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 5653.3037
+The first Exponent: 139 , 10001011
+The first Significand: 3189358, 1100001010101001101110
+The second decimalNumber_2: 2154.4355
+The second Exponent: 138, 10001010
+The second Significand: 435960, 1101010011011111000
+The result: 1.2179678E7
+The result of decimalNumber_1*decimalNumber_2: 1.2179678E7
+The result Exponent: 23, 10111
+The result Significand: 1.4519307613372803, 11111111110111001110110001101111000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 7278.533
+The first Exponent: 139 , 10001011
+The first Significand: 6517828, 11000110111010001000100
+The second decimalNumber_2: 660.48267
+The second Exponent: 136, 10001000
+The second Significand: 2432740, 1001010001111011100100
+The result: 4807345.0
+The result of decimalNumber_1*decimalNumber_2: 4807345.0
+The result Exponent: 22, 10110
+The result Significand: 1.146160364151001, 11111111110010010101101010110001000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 7957.6567
+The first Exponent: 139 , 10001011
+The first Significand: 7908673, 11110001010110101000001
+The second decimalNumber_2: 4567.8057
+The second Exponent: 139, 10001011
+The second Significand: 966258, 11101011111001110010
+The result: 3.6349028E7
+The result of decimalNumber_1*decimalNumber_2: 3.6349028E7
+The result Exponent: 25, 11001
+The result Significand: 1.0832854509353638, 11111111110001010101010010001100100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 5263.8276
+The first Exponent: 139 , 10001011
+The first Significand: 2391711, 1001000111111010011111
+The second decimalNumber_2: 1895.2036
+The second Exponent: 137, 10001001
+The second Significand: 7136900, 11011001110011010000100
+The result: 9976025.0
+The result of decimalNumber_1*decimalNumber_2: 9976025.0
+The result Exponent: 23, 10111
+The result Significand: 1.1892348527908325, 11111111110011000001110001101100100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 6840.068
+The first Exponent: 139 , 10001011
+The first Significand: 5619851, 10101011100000010001011
+The second decimalNumber_2: 6588.6943
+The second Exponent: 139, 10001011
+The second Significand: 5105038, 10011011110010110001110
+The result: 4.5067116E7
+The result of decimalNumber_1*decimalNumber_2: 4.5067116E7
+The result Exponent: 25, 11001
+The result Significand: 1.3431047201156616, 11111111110101011111010101101101100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 4202.7046
+The first Exponent: 139 , 10001011
+The first Significand: 218531, 110101010110100011
+The second decimalNumber_2: 7063.0444
+The second Exponent: 139, 10001011
+The second Significand: 6076507, 10111001011100001011011
+The result: 2.968389E7
+The result of decimalNumber_1*decimalNumber_2: 2.968389E7
+The result Exponent: 24, 11000
+The result Significand: 1.76929771900177, 11111111111100010011110000101100100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 1379.0393
+The first Exponent: 137 , 10001001
+The first Significand: 2908482, 1011000110000101000010
+The second decimalNumber_2: 4421.374
+The second Exponent: 139, 10001011
+The second Significand: 666366, 10100010101011111110
+The result: 6097248.5
+The result of decimalNumber_1*decimalNumber_2: 6097248.5
+The result Exponent: 22, 10110
+The result Significand: 1.4536973237991333, 11111111110111010000100101100000100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 6975.02
+The first Exponent: 139 , 10001011
+The first Significand: 5896233, 10110011111100000101001
+The second decimalNumber_2: 8280.052
+The second Exponent: 140, 10001100
+The second Significand: 90165, 10110000000110101
+The result: 5.7753528E7
+The result of decimalNumber_1*decimalNumber_2: 5.7753528E7
+The result Exponent: 25, 11001
+The result Significand: 1.721189260482788, 11111111111011100010011111110111000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 1840.9646
+The first Exponent: 137 , 10001001
+The first Significand: 6692574, 11001100001111011011110
+The second decimalNumber_2: 5853.9053
+The second Exponent: 139, 10001011
+The second Significand: 3600190, 1101101110111100111110
+The result: 1.0776832E7
+The result of decimalNumber_1*decimalNumber_2: 1.0776832E7
+The result Exponent: 23, 10111
+The result Significand: 1.284698486328125, 11111111110100100011100010000000000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 9617.23
+The first Exponent: 140 , 10001100
+The first Significand: 1459436, 101100100010011101100
+The second decimalNumber_2: 7953.981
+The second Exponent: 139, 10001011
+The second Significand: 7901145, 11110001000111111011001
+The result: 7.6495272E7
+The result of decimalNumber_1*decimalNumber_2: 7.6495272E7
+The result Exponent: 26, 11010
+The result Significand: 1.1398683786392212, 11111111110010001111001110011010100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 4537.8096
+The first Exponent: 139 , 10001011
+The first Significand: 904826, 11011100111001111010
+The second decimalNumber_2: 234.50673
+The second Exponent: 134, 10000110
+The second Significand: 6980025, 11010101000000110111001
+The result: 1064146.875
+The result of decimalNumber_1*decimalNumber_2: 1064146.9
+The result Exponent: 20, 10100
+The result Significand: 1.0148495435714722, 11111111110000001111001101001011100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 9527.299
+The first Exponent: 140 , 10001100
+The first Significand: 1367346, 101001101110100110010
+The second decimalNumber_2: 468.49728
+The second Exponent: 135, 10000111
+The second Significand: 6963111, 11010100011111110100111
+The result: 4463513.5
+The result of decimalNumber_1*decimalNumber_2: 4463513.5
+The result Exponent: 22, 10110
+The result Significand: 1.064184546470642, 11111111110001000001101110011001100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 7157.93
+The first Exponent: 139 , 10001011
+The first Significand: 6270833, 10111111010111101110001
+The second decimalNumber_2: 9572.332
+The second Exponent: 140, 10001100
+The second Significand: 1413460, 101011001000101010100
+The result: 6.8518088E7
+The result of decimalNumber_1*decimalNumber_2: 6.8518088E7
+The result Exponent: 26, 11010
+The result Significand: 1.0209990739822388, 11111111110000010101100000001100100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 9527.554
+The first Exponent: 140 , 10001100
+The first Significand: 1367607, 101001101111000110111
+The second decimalNumber_2: 660.6984
+The second Exponent: 136, 10001000
+The second Significand: 2436275, 1001010010110010110011
+The result: 6294839.5
+The result of decimalNumber_1*decimalNumber_2: 6294839.5
+The result Exponent: 22, 10110
+The result Significand: 1.5008066892623901, 11111111111000000000110100110111100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 6141.2334
+The first Exponent: 139 , 10001011
+The first Significand: 4188638, 1111111110100111011110
+The second decimalNumber_2: 5766.816
+The second Exponent: 139, 10001011
+The second Significand: 3421831, 1101000011011010000111
+The result: 3.5415364E7
+The result of decimalNumber_1*decimalNumber_2: 3.5415364E7
+The result Exponent: 25, 11001
+The result Significand: 1.0554600954055786, 11111111110000111000110010101000100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 4075.1428
+The first Exponent: 138 , 10001010
+The first Significand: 8303177, 11111101011001001001001
+The second decimalNumber_2: 1744.5057
+The second Exponent: 137, 10001001
+The second Significand: 5902383, 10110100001000000101111
+The result: 7109110.0
+The result of decimalNumber_1*decimalNumber_2: 7109110.0
+The result Exponent: 22, 10110
+The result Significand: 1.694943904876709, 11111111111011000111100111110110000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 9748.023
+The first Exponent: 140 , 10001100
+The first Significand: 1593368, 110000101000000011000
+The second decimalNumber_2: 218.67336
+The second Exponent: 134, 10000110
+The second Significand: 5942369, 10110101010110001100001
+The result: 2131633.0
+The result of decimalNumber_1*decimalNumber_2: 2131633.0
+The result Exponent: 21, 10101
+The result Significand: 1.016441822052002, 11111111110000010000110101100010000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 1676.1387
+The first Exponent: 137 , 10001001
+The first Significand: 5342320, 10100011000010001110000
+The second decimalNumber_2: 2951.6404
+The second Exponent: 138, 10001010
+The second Significand: 3701311, 1110000111101000111111
+The result: 4947358.5
+The result of decimalNumber_1*decimalNumber_2: 4947358.5
+The result Exponent: 22, 10110
+The result Significand: 1.1795421838760376, 11111111110010110111110110011110100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 4207.1377
+The first Exponent: 139 , 10001011
+The first Significand: 227610, 110111100100011010
+The second decimalNumber_2: 9600.402
+The second Exponent: 140, 10001100
+The second Significand: 1442204, 101100000000110011100
+The result: 4.0390216E7
+The result of decimalNumber_1*decimalNumber_2: 4.0390216E7
+The result Exponent: 25, 11001
+The result Significand: 1.2037222385406494, 11111111110011010000100111001001000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 608.0586
+The first Exponent: 136 , 10001000
+The first Significand: 1573824, 110000000001111000000
+The second decimalNumber_2: 8744.503
+The second Exponent: 140, 10001100
+The second Significand: 565763, 10001010001000000011
+The result: 5317170.0
+The result of decimalNumber_1*decimalNumber_2: 5317170.0
+The result Exponent: 22, 10110
+The result Significand: 1.267712116241455, 11111111110100010010001000110010000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 6026.435
+The first Exponent: 139 , 10001011
+The first Significand: 3953531, 1111000101001101111011
+The second decimalNumber_2: 9461.007
+The second Exponent: 140, 10001100
+The second Significand: 1299463, 100111101010000000111
+The result: 5.7016144E7
+The result of decimalNumber_1*decimalNumber_2: 5.7016144E7
+The result Exponent: 25, 11001
+The result Significand: 1.6992135047912598, 11111111111011001011111111101010000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 7814.794
+The first Exponent: 139 , 10001011
+The first Significand: 7616090, 11101000011011001011010
+The second decimalNumber_2: 3914.0063
+The second Exponent: 138, 10001010
+The second Significand: 7643162, 11101001010000000011010
+The result: 3.0587154E7
+The result of decimalNumber_1*decimalNumber_2: 3.0587154E7
+The result Exponent: 24, 11000
+The result Significand: 1.8231364488601685, 11111111111101001010111001000100100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 8634.008
+The first Exponent: 140 , 10001100
+The first Significand: 452616, 1101110100000001000
+The second decimalNumber_2: 6019.7134
+The second Exponent: 139, 10001011
+The second Significand: 3939765, 1111000001110110110101
+The result: 5.1974252E7
+The result of decimalNumber_1*decimalNumber_2: 5.1974252E7
+The result Exponent: 25, 11001
+The result Significand: 1.5489534139633179, 11111111111000110010001000001101100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 8893.418
+The first Exponent: 140 , 10001100
+The first Significand: 718252, 10101111010110101100
+The second decimalNumber_2: 500.58008
+The second Exponent: 135, 10000111
+The second Significand: 8014400, 11110100100101001000000
+The result: 4451868.0
+The result of decimalNumber_1*decimalNumber_2: 4451868.0
+The result Exponent: 22, 10110
+The result Significand: 1.0614080429077148, 11111111110000111110111000011100000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 234.6909
+The first Exponent: 134 , 10000110
+The first Significand: 6992095, 11010101011000011011111
+The second decimalNumber_2: 7989.5903
+The second Exponent: 139, 10001011
+The second Significand: 7974073, 11110011010110010111001
+The result: 1875084.125
+The result of decimalNumber_1*decimalNumber_2: 1875084.1
+The result Exponent: 20, 10100
+The result Significand: 1.7882195711135864, 11111111111100100111001000110000100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 2495.8682
+The first Exponent: 138 , 10001010
+The first Significand: 1834468, 110111111110111100100
+The second decimalNumber_2: 2427.5344
+The second Exponent: 138, 10001010
+The second Significand: 1554573, 101111011100010001101
+The result: 6058806.0
+The result of decimalNumber_1*decimalNumber_2: 6058806.0
+The result Exponent: 22, 10110
+The result Significand: 1.4445319175720215, 11111111110111000111001100110110000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 1897.8036
+The first Exponent: 137 , 10001001
+The first Significand: 7158199, 11011010011100110110111
+The second decimalNumber_2: 7121.901
+The second Exponent: 139, 10001011
+The second Significand: 6197045, 10111101000111100110101
+The result: 1.3515969E7
+The result of decimalNumber_1*decimalNumber_2: 1.3515969E7
+The result Exponent: 23, 10111
+The result Significand: 1.6112290620803833, 11111111111001110001111001100000100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 6196.3438
+The first Exponent: 139 , 10001011
+The first Significand: 4301504, 10000011010001011000000
+The second decimalNumber_2: 2862.6567
+The second Exponent: 138, 10001010
+The second Significand: 3336834, 1100101110101010000010
+The result: 1.7738006E7
+The result of decimalNumber_1*decimalNumber_2: 1.7738006E7
+The result Exponent: 24, 11000
+The result Significand: 1.0572675466537476, 11111111110000111010101001000101100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 7763.708
+The first Exponent: 139 , 10001011
+The first Significand: 7511466, 11100101001110110101010
+The second decimalNumber_2: 7979.9775
+The second Exponent: 139, 10001011
+The second Significand: 7954386, 11110010101111111010010
+The result: 6.1954216E7
+The result of decimalNumber_1*decimalNumber_2: 6.1954216E7
+The result Exponent: 25, 11001
+The result Significand: 1.8463795185089111, 11111111111101100010101100010101000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 103.91414
+The first Exponent: 133 , 10000101
+The first Significand: 5231626, 10011111101010000001010
+The second decimalNumber_2: 8002.743
+The second Exponent: 139, 10001011
+The second Significand: 8001010, 11110100001010111110010
+The result: 831598.1875
+The result of decimalNumber_1*decimalNumber_2: 831598.2
+The result Exponent: 19, 10011
+The result Significand: 1.586147665977478, 11111111111001011000001101110001100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 9262.492
+The first Exponent: 140 , 10001100
+The first Significand: 1096184, 100001011100111111000
+The second decimalNumber_2: 9527.587
+The second Exponent: 140, 10001100
+The second Significand: 1367641, 101001101111001011001
+The result: 8.82492E7
+The result of decimalNumber_1*decimalNumber_2: 8.82492E7
+The result Exponent: 26, 11010
+The result Significand: 1.3150155544281006, 11111111110101000010100100110111000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 1332.1603
+The first Exponent: 137 , 10001001
+The first Significand: 2524449, 1001101000010100100001
+The second decimalNumber_2: 4788.2886
+The second Exponent: 139, 10001011
+The second Significand: 1417807, 101011010001001001111
+The result: 6378768.0
+The result of decimalNumber_1*decimalNumber_2: 6378768.0
+The result Exponent: 22, 10110
+The result Significand: 1.5208168029785156, 11111111111000010101010100010000000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 3916.982
+The first Exponent: 138 , 10001010
+The first Significand: 7655350, 11101001100111110110110
+The second decimalNumber_2: 7471.4326
+The second Exponent: 139, 10001011
+The second Significand: 6912886, 11010010111101101110110
+The result: 2.9265466E7
+The result of decimalNumber_1*decimalNumber_2: 2.9265466E7
+The result Exponent: 24, 11000
+The result Significand: 1.744357705116272, 11111111111011111010001110001110100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 1909.6774
+The first Exponent: 137 , 10001001
+The first Significand: 7255469, 11011101011010110101101
+The second decimalNumber_2: 4057.2166
+The second Exponent: 138, 10001010
+The second Significand: 8229751, 11111011001001101110111
+The result: 7747974.5
+The result of decimalNumber_1*decimalNumber_2: 7747974.5
+The result Exponent: 22, 10110
+The result Significand: 1.8472610712051392, 11111111111101100011100110000110100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 2881.3274
+The first Exponent: 138 , 10001010
+The first Significand: 3413309, 1101000001010100111101
+The second decimalNumber_2: 6283.3267
+The second Exponent: 139, 10001011
+The second Significand: 4479645, 10001000101101010011101
+The result: 1.8104322E7
+The result of decimalNumber_1*decimalNumber_2: 1.8104322E7
+The result Exponent: 24, 11000
+The result Significand: 1.0791016817092896, 11111111110001010001000000000000100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 4057.795
+The first Exponent: 138 , 10001010
+The first Significand: 8232120, 11111011001110010111000
+The second decimalNumber_2: 6002.11
+The second Exponent: 139, 10001011
+The second Significand: 3903713, 1110111001000011100001
+The result: 2.435533E7
+The result of decimalNumber_1*decimalNumber_2: 2.435533E7
+The result Exponent: 24, 11000
+The result Significand: 1.4516907930374146, 11111111110111001110100010000000100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 8346.167
+The first Exponent: 140 , 10001100
+The first Significand: 157867, 100110100010101011
+The second decimalNumber_2: 5340.2095
+The second Exponent: 139, 10001011
+The second Significand: 2548141, 1001101110000110101101
+The result: 4.457028E7
+The result of decimalNumber_1*decimalNumber_2: 4.457028E7
+The result Exponent: 25, 11001
+The result Significand: 1.3282978534698486, 11111111110101010000001011010101000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 9102.302
+The first Exponent: 140 , 10001100
+The first Significand: 932149, 11100011100100110101
+The second decimalNumber_2: 3571.6094
+The second Exponent: 138, 10001010
+The second Significand: 6240704, 10111110011100111000000
+The result: 3.2509866E7
+The result of decimalNumber_1*decimalNumber_2: 3.2509866E7
+The result Exponent: 24, 11000
+The result Significand: 1.9377390146255493, 11111111111111000000001111101010100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 6514.526
+The first Exponent: 139 , 10001011
+The first Significand: 4953141, 10010111001010000110101
+The second decimalNumber_2: 3019.6892
+The second Exponent: 138, 10001010
+The second Significand: 3980039, 1111001011101100000111
+The result: 1.9671844E7
+The result of decimalNumber_1*decimalNumber_2: 1.9671844E7
+The result Exponent: 24, 11000
+The result Significand: 1.1725332736968994, 11111111110010110000101011001001000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 1062.4135
+The first Exponent: 137 , 10001001
+The first Significand: 314683, 1001100110100111011
+The second decimalNumber_2: 1013.2629
+The second Exponent: 136, 10001000
+The second Significand: 8212691, 11111010101000011010011
+The result: 1076504.125
+The result of decimalNumber_1*decimalNumber_2: 1076504.1
+The result Exponent: 20, 10100
+The result Significand: 1.0266343355178833, 11111111110000011011010001100000100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 3103.4363
+The first Exponent: 138 , 10001010
+The first Significand: 4323067, 10000011111011011111011
+The second decimalNumber_2: 6083.186
+The second Exponent: 139, 10001011
+The second Significand: 4069757, 1111100001100101111101
+The result: 1.887878E7
+The result of decimalNumber_1*decimalNumber_2: 1.887878E7
+The result Exponent: 24, 11000
+The result Significand: 1.125262975692749, 11111111110010000000010001001111000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 7238.702
+The first Exponent: 139 , 10001011
+The first Significand: 6436254, 11000100011010110011110
+The second decimalNumber_2: 8011.8765
+The second Exponent: 139, 10001011
+The second Significand: 8019715, 11110100101111100000011
+The result: 5.7995588E7
+The result of decimalNumber_1*decimalNumber_2: 5.7995588E7
+The result Exponent: 25, 11001
+The result Significand: 1.7284032106399536, 11111111111011101001111000101000100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 8428.853
+The first Exponent: 140 , 10001100
+The first Significand: 242537, 111011001101101001
+The second decimalNumber_2: 7191.2964
+The second Exponent: 139, 10001011
+The second Significand: 6339167, 11000001011101001011111
+The result: 6.0614376E7
+The result of decimalNumber_1*decimalNumber_2: 6.0614376E7
+The result Exponent: 25, 11001
+The result Significand: 1.8064491748809814, 11111111111100111001110011011101000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 7863.0376
+The first Exponent: 139 , 10001011
+The first Significand: 7714893, 11101011011100001001101
+The second decimalNumber_2: 7220.2837
+The second Exponent: 139, 10001011
+The second Significand: 6398533, 11000011010001001000101
+The result: 5.6773364E7
+The result of decimalNumber_1*decimalNumber_2: 5.6773364E7
+The result Exponent: 25, 11001
+The result Significand: 1.691978096961975, 11111111111011000100100101011110100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 8997.204
+The first Exponent: 140 , 10001100
+The first Significand: 824529, 11001001010011010001
+The second decimalNumber_2: 6785.1587
+The second Exponent: 139, 10001011
+The second Significand: 5507397, 10101000000100101000101
+The result: 6.1047456E7
+The result of decimalNumber_1*decimalNumber_2: 6.1047456E7
+The result Exponent: 25, 11001
+The result Significand: 1.8193559646606445, 11111111111101000111000001010100000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 2739.1313
+The first Exponent: 138 , 10001010
+The first Significand: 2830874, 1010110011001000011010
+The second decimalNumber_2: 9881.617
+The second Exponent: 140, 10001100
+The second Significand: 1730168, 110100110011001111000
+The result: 2.7067048E7
+The result of decimalNumber_1*decimalNumber_2: 2.7067048E7
+The result Exponent: 24, 11000
+The result Significand: 1.6133217811584473, 11111111111001110100000010101010000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 1006.71826
+The first Exponent: 136 , 10001000
+The first Significand: 8105464, 11110111010110111111000
+The second decimalNumber_2: 3772.7058
+The second Exponent: 138, 10001010
+The second Significand: 7064395, 11010111100101101001011
+The result: 3798051.75
+The result of decimalNumber_1*decimalNumber_2: 3798051.8
+The result Exponent: 21, 10101
+The result Significand: 1.8110522031784058, 11111111111100111110100001000111100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 7010.7456
+The first Exponent: 139 , 10001011
+The first Significand: 5969399, 10110110001010111110111
+The second decimalNumber_2: 2000.6991
+The second Exponent: 137, 10001001
+The second Significand: 8001119, 11110100001011001011111
+The result: 1.4026392E7
+The result of decimalNumber_1*decimalNumber_2: 1.4026392E7
+The result Exponent: 23, 10111
+The result Significand: 1.6720762252807617, 11111111111010110000001101001100000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 576.5337
+The first Exponent: 136 , 10001000
+The first Significand: 1057320, 100000010001000101000
+The second decimalNumber_2: 1824.4034
+The second Exponent: 137, 10001001
+The second Significand: 6556905, 11001000000110011101001
+The result: 1051830.0
+The result of decimalNumber_1*decimalNumber_2: 1051830.0
+The result Exponent: 20, 10100
+The result Significand: 1.003103256225586, 11111111110000000011001011011000000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 343.53076
+The first Exponent: 135 , 10000111
+The first Significand: 2868208, 1010111100001111110000
+The second decimalNumber_2: 9266.963
+The second Exponent: 140, 10001100
+The second Significand: 1100762, 100001100101111011010
+The result: 3183486.75
+The result of decimalNumber_1*decimalNumber_2: 3183486.8
+The result Exponent: 21, 10101
+The result Significand: 1.5180047750473022, 11111111111000010010011011111101100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 3759.762
+The first Exponent: 138 , 10001010
+The first Significand: 7011377, 11010101111110000110001
+The second decimalNumber_2: 7765.7466
+The second Exponent: 139, 10001011
+The second Significand: 7515641, 11100101010110111111001
+The result: 2.9197358E7
+The result of decimalNumber_1*decimalNumber_2: 2.9197358E7
+The result Exponent: 24, 11000
+The result Significand: 1.7402981519699097, 11111111111011110110000100001011100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 7063.675
+The first Exponent: 139 , 10001011
+The first Significand: 6077798, 10111001011110101100110
+The second decimalNumber_2: 5778.33
+The second Exponent: 139, 10001011
+The second Significand: 3445412, 1101001001001010100100
+The result: 4.0816244E7
+The result of decimalNumber_1*decimalNumber_2: 4.0816244E7
+The result Exponent: 25, 11001
+The result Significand: 1.2164188623428345, 11111111110011011101100111001110100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 149.6911
+The first Exponent: 134 , 10000110
+The first Significand: 1421548, 101011011000011101100
+The second decimalNumber_2: 4630.354
+The second Exponent: 139, 10001011
+The second Significand: 1094357, 100001011001011010101
+The result: 693122.8125
+The result of decimalNumber_1*decimalNumber_2: 693122.8
+The result Exponent: 19, 10011
+The result Significand: 1.3220268487930298, 11111111110101001001110000010110100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 2886.358
+The first Exponent: 138 , 10001010
+The first Significand: 3433914, 1101000110010110111010
+The second decimalNumber_2: 6327.314
+The second Exponent: 139, 10001011
+The second Significand: 4569731, 10001011011101010000011
+The result: 1.8262892E7
+The result of decimalNumber_1*decimalNumber_2: 1.8262892E7
+The result Exponent: 24, 11000
+The result Significand: 1.0885531902313232, 11111111110001011010101011011011000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 6657.659
+The first Exponent: 139 , 10001011
+The first Significand: 5246278, 10100000000110101000110
+The second decimalNumber_2: 5523.18
+The second Exponent: 139, 10001011
+The second Significand: 2922865, 1011001001100101110001
+The result: 3.6771452E7
+The result of decimalNumber_1*decimalNumber_2: 3.6771452E7
+The result Exponent: 25, 11001
+The result Significand: 1.0958746671676636, 11111111110001100010001011001111100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 1433.9453
+The first Exponent: 137 , 10001001
+The first Significand: 3358272, 1100110011111001000000
+The second decimalNumber_2: 8495.722
+The second Exponent: 140, 10001100
+The second Significand: 311011, 1001011111011100011
+The result: 1.21824E7
+The result of decimalNumber_1*decimalNumber_2: 1.21824E7
+The result Exponent: 23, 10111
+The result Significand: 1.4522552490234375, 11111111110111001111000111000000000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 607.1776
+The first Exponent: 136 , 10001000
+The first Significand: 1559390, 101111100101101011110
+The second decimalNumber_2: 3313.613
+The second Exponent: 138, 10001010
+The second Significand: 5183951, 10011110001100111001111
+The result: 2011951.625
+The result of decimalNumber_1*decimalNumber_2: 2011951.6
+The result Exponent: 20, 10100
+The result Significand: 1.9187465906143188, 11111111111110101100110010111110100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 3782.5144
+The first Exponent: 138 , 10001010
+The first Significand: 7104571, 11011000110100000111011
+The second decimalNumber_2: 4294.252
+The second Exponent: 139, 10001011
+The second Significand: 406020, 1100011001000000100
+The result: 1.624307E7
+The result of decimalNumber_1*decimalNumber_2: 1.624307E7
+The result Exponent: 23, 10111
+The result Significand: 1.9363248348236084, 11111111111110111110110010111111000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 9603.103
+The first Exponent: 140 , 10001100
+The first Significand: 1444969, 101100000110001101001
+The second decimalNumber_2: 3354.9016
+The second Exponent: 138, 10001010
+The second Significand: 5353069, 10100011010111001101101
+The result: 3.2217464E7
+The result of decimalNumber_1*decimalNumber_2: 3.2217464E7
+The result Exponent: 24, 11000
+The result Significand: 1.9203104972839355, 11111111111110101110011001011110000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 325.41455
+The first Exponent: 135 , 10000111
+The first Significand: 2274576, 1000101011010100010000
+The second decimalNumber_2: 8392.759
+The second Exponent: 140, 10001100
+The second Significand: 205577, 110010001100001001
+The result: 2731125.75
+The result of decimalNumber_1*decimalNumber_2: 2731125.8
+The result Exponent: 21, 10101
+The result Significand: 1.3023022413253784, 11111111110100110101100011101011100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 5293.4604
+The first Exponent: 139 , 10001011
+The first Significand: 2452399, 1001010110101110101111
+The second decimalNumber_2: 1503.8889
+The second Exponent: 137, 10001001
+The second Significand: 3931250, 1110111111110001110010
+The result: 7960776.5
+The result of decimalNumber_1*decimalNumber_2: 7960776.5
+The result Exponent: 22, 10110
+The result Significand: 1.8979970216751099, 11111111111110010111100011001000100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 8791.01
+The first Exponent: 140 , 10001100
+The first Significand: 613386, 10010101110000001010
+The second decimalNumber_2: 8998.923
+The second Exponent: 140, 10001100
+The second Significand: 826289, 11001001101110110001
+The result: 7.9109616E7
+The result of decimalNumber_1*decimalNumber_2: 7.9109616E7
+The result Exponent: 26, 11010
+The result Significand: 1.1788251399993896, 11111111110010110111000111011111000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 5095.8394
+The first Exponent: 139 , 10001011
+The first Significand: 2047671, 111110011111010110111
+The second decimalNumber_2: 4365.651
+The second Exponent: 139, 10001011
+The second Significand: 552245, 10000110110100110101
+The result: 2.2246656E7
+The result of decimalNumber_1*decimalNumber_2: 2.2246656E7
+The result Exponent: 24, 11000
+The result Significand: 1.3260040283203125, 11111111110101001101110101000000000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 7847.311
+The first Exponent: 139 , 10001011
+The first Significand: 7682685, 11101010011101001111101
+The second decimalNumber_2: 7698.262
+The second Exponent: 139, 10001011
+The second Significand: 7377433, 11100001001001000011001
+The result: 6.0410656E7
+The result of decimalNumber_1*decimalNumber_2: 6.0410656E7
+The result Exponent: 25, 11001
+The result Significand: 1.8003778457641602, 11111111111100110011100101100100000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 5108.841
+The first Exponent: 139 , 10001011
+The first Significand: 2074298, 111111010011010111010
+The second decimalNumber_2: 3193.0334
+The second Exponent: 138, 10001010
+The second Significand: 4690057, 10001111001000010001001
+The result: 1.63127E7
+The result of decimalNumber_1*decimalNumber_2: 1.63127E7
+The result Exponent: 23, 10111
+The result Significand: 1.9446253776550293, 11111111111111000111010010111110000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 7434.673
+The first Exponent: 139 , 10001011
+The first Significand: 6837602, 11010000101010101100010
+The second decimalNumber_2: 9314.853
+The second Exponent: 140, 10001100
+The second Significand: 1149801, 100011000101101101001
+The result: 6.925288E7
+The result of decimalNumber_1*decimalNumber_2: 6.925288E7
+The result Exponent: 26, 11010
+The result Significand: 1.0319483280181885, 11111111110000100000101101110001000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 8058.135
+The first Exponent: 139 , 10001011
+The first Significand: 8114452, 11110111101000100010100
+The second decimalNumber_2: 6073.065
+The second Exponent: 139, 10001011
+The second Significand: 4049029, 1111011100100010000101
+The result: 4.8937576E7
+The result of decimalNumber_1*decimalNumber_2: 4.8937576E7
+The result Exponent: 25, 11001
+The result Significand: 1.4584534168243408, 11111111110111010101011101001101000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 4872.072
+The first Exponent: 139 , 10001011
+The first Significand: 1589395, 110000100000010010011
+The second decimalNumber_2: 1279.1067
+The second Exponent: 137, 10001001
+The second Significand: 2089834, 111111110001101101010
+The result: 6231899.5
+The result of decimalNumber_1*decimalNumber_2: 6231899.5
+The result Exponent: 22, 10110
+The result Significand: 1.4858006238937378, 11111111110111110001011101011011100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 5476.5063
+The first Exponent: 139 , 10001011
+The first Significand: 2827277, 1010110010010000001101
+The second decimalNumber_2: 5804.7075
+The second Exponent: 139, 10001011
+The second Significand: 3499433, 1101010110010110101001
+The result: 3.1789518E7
+The result of decimalNumber_1*decimalNumber_2: 3.1789518E7
+The result Exponent: 24, 11000
+The result Significand: 1.8948029279708862, 11111111111110010100010001110011100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 3157.9304
+The first Exponent: 138 , 10001010
+The first Significand: 4546275, 10001010101111011100011
+The second decimalNumber_2: 234.97879
+The second Exponent: 134, 10000110
+The second Significand: 7010962, 11010101111101010010010
+The result: 742046.6875
+The result of decimalNumber_1*decimalNumber_2: 742046.7
+The result Exponent: 19, 10011
+The result Significand: 1.4153417348861694, 11111111110110101001010011110101100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 3799.9885
+The first Exponent: 138 , 10001010
+The first Significand: 7176145, 11011010111111111010001
+The second decimalNumber_2: 822.3754
+The second Exponent: 136, 10001000
+The second Significand: 5085191, 10011011001100000000111
+The result: 3125017.25
+The result of decimalNumber_1*decimalNumber_2: 3125017.2
+The result Exponent: 21, 10101
+The result Significand: 1.4901243448257446, 11111111110111110101111000110010100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 1845.0659
+The first Exponent: 137 , 10001001
+The first Significand: 6726172, 11001101010001000011100
+The second decimalNumber_2: 2380.4067
+The second Exponent: 138, 10001010
+The second Significand: 1361538, 101001100011010000010
+The result: 4392007.5
+The result of decimalNumber_1*decimalNumber_2: 4392007.5
+The result Exponent: 22, 10110
+The result Significand: 1.0471361875534058, 11111111110000110000010001000111100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 7904.8574
+The first Exponent: 139 , 10001011
+The first Significand: 7800540, 11101110000011011011100
+The second decimalNumber_2: 9840.764
+The second Exponent: 140, 10001100
+The second Significand: 1688334, 110011100001100001110
+The result: 7.7789832E7
+The result of decimalNumber_1*decimalNumber_2: 7.7789832E7
+The result Exponent: 26, 11010
+The result Significand: 1.1591588258743286, 11111111110010100010111110101000100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 509.33005
+The first Exponent: 135 , 10000111
+The first Significand: 8301119, 11111101010101000111111
+The second decimalNumber_2: 1825.1997
+The second Exponent: 137, 10001001
+The second Significand: 6563428, 11001000010011001100100
+The result: 929629.0625
+The result of decimalNumber_1*decimalNumber_2: 929629.06
+The result Exponent: 19, 10011
+The result Significand: 1.7731267213821411, 11111111111100010111101011101000100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 6269.6836
+The first Exponent: 139 , 10001011
+The first Significand: 4451704, 10000111110110101111000
+The second decimalNumber_2: 6371.3647
+The second Exponent: 139, 10001011
+The second Significand: 4659947, 10001110001101011101011
+The result: 3.994644E7
+The result of decimalNumber_1*decimalNumber_2: 3.994644E7
+The result Exponent: 25, 11001
+The result Significand: 1.1904966831207275, 11111111110011000011000100011001000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 4943.0327
+The first Exponent: 139 , 10001011
+The first Significand: 1734723, 110100111100001000011
+The second decimalNumber_2: 6578.499
+The second Exponent: 139, 10001011
+The second Significand: 5084158, 10011011001001111111110
+The result: 3.2517736E7
+The result of decimalNumber_1*decimalNumber_2: 3.2517736E7
+The result Exponent: 24, 11000
+The result Significand: 1.9382081031799316, 11111111111111000000101110011010000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 8536.078
+The first Exponent: 140 , 10001100
+The first Significand: 352336, 1010110000001010000
+The second decimalNumber_2: 3224.25
+The second Exponent: 138, 10001010
+The second Significand: 4817920, 10010011000010000000000
+The result: 2.752245E7
+The result of decimalNumber_1*decimalNumber_2: 2.752245E7
+The result Exponent: 24, 11000
+The result Significand: 1.6404658555984497, 11111111111010001111110101100100100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 2706.657
+The first Exponent: 138 , 10001010
+The first Significand: 2697859, 1010010010101010000011
+The second decimalNumber_2: 4882.4727
+The second Exponent: 139, 10001011
+The second Significand: 1610696, 110001001001111001000
+The result: 1.3215179E7
+The result of decimalNumber_1*decimalNumber_2: 1.3215179E7
+The result Exponent: 23, 10111
+The result Significand: 1.5753720998764038, 11111111111001001101001011100101100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 1823.2148
+The first Exponent: 137 , 10001001
+The first Significand: 6547168, 11000111110011011100000
+The second decimalNumber_2: 4739.268
+The second Exponent: 139, 10001011
+The second Significand: 1317413, 101000001101000100101
+The result: 8640704.0
+The result of decimalNumber_1*decimalNumber_2: 8640704.0
+The result Exponent: 23, 10111
+The result Significand: 1.0300521850585938, 11111111110000011110110001100000000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 1364.9255
+The first Exponent: 137 , 10001001
+The first Significand: 2792862, 1010101001110110011110
+The second decimalNumber_2: 9428.612
+The second Exponent: 140, 10001100
+The second Significand: 1266291, 100110101001001110011
+The result: 1.2869354E7
+The result of decimalNumber_1*decimalNumber_2: 1.2869354E7
+The result Exponent: 23, 10111
+The result Significand: 1.5341465473175049, 11111111111000100010111101110101000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 8688.751
+The first Exponent: 140 , 10001100
+The first Significand: 508673, 1111100001100000001
+The second decimalNumber_2: 1277.9432
+The second Exponent: 137, 10001001
+The second Significand: 2080303, 111111011111000101111
+The result: 1.1103731E7
+The result of decimalNumber_1*decimalNumber_2: 1.1103731E7
+The result Exponent: 23, 10111
+The result Significand: 1.3236678838729858, 11111111110101001011011011111001100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 5336.863
+The first Exponent: 139 , 10001011
+The first Significand: 2541287, 1001101100011011100111
+The second decimalNumber_2: 4502.848
+The second Exponent: 139, 10001011
+The second Significand: 833225, 11001011011011001001
+The result: 2.4031082E7
+The result of decimalNumber_1*decimalNumber_2: 2.4031082E7
+The result Exponent: 24, 11000
+The result Significand: 1.4323641061782837, 11111111110110111010101111011010100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 2568.034
+The first Exponent: 138 , 10001010
+The first Significand: 2130059, 1000001000000010001011
+The second decimalNumber_2: 9427.178
+The second Exponent: 140, 10001100
+The second Significand: 1264822, 100110100110010110110
+The result: 2.4209312E7
+The result of decimalNumber_1*decimalNumber_2: 2.4209312E7
+The result Exponent: 24, 11000
+The result Significand: 1.4429874420166016, 11111111110111000101100111101000000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 7988.4307
+The first Exponent: 139 , 10001011
+The first Significand: 7971698, 11110011010001101110010
+The second decimalNumber_2: 5745.018
+The second Exponent: 139, 10001011
+The second Significand: 3377189, 1100111000100000100101
+The result: 4.589368E7
+The result of decimalNumber_1*decimalNumber_2: 4.589368E7
+The result Exponent: 25, 11001
+The result Significand: 1.3677382469177246, 11111111110101111000100100000110000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 8856.573
+The first Exponent: 140 , 10001100
+The first Significand: 680523, 10100110001001001011
+The second decimalNumber_2: 7505.637
+The second Exponent: 139, 10001011
+The second Significand: 6982937, 11010101000110100011001
+The result: 6.6474224E7
+The result of decimalNumber_1*decimalNumber_2: 6.6474224E7
+The result Exponent: 25, 11001
+The result Significand: 1.981086254119873, 11111111111111101100101000011110000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 4902.3896
+The first Exponent: 139 , 10001011
+The first Significand: 1651486, 110010011001100011110
+The second decimalNumber_2: 1846.3588
+The second Exponent: 137, 10001001
+The second Significand: 6736763, 11001101100101101111011
+The result: 9051570.0
+The result of decimalNumber_1*decimalNumber_2: 9051570.0
+The result Exponent: 23, 10111
+The result Significand: 1.079031229019165, 11111111110001010000111011011001000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 7778.096
+The first Exponent: 139 , 10001011
+The first Significand: 7540933, 11100110001000011000101
+The second decimalNumber_2: 2607.5186
+The second Exponent: 138, 10001010
+The second Significand: 2291788, 1000101111100001001100
+The result: 2.028153E7
+The result of decimalNumber_1*decimalNumber_2: 2.028153E7
+The result Exponent: 24, 11000
+The result Significand: 1.2088733911514282, 11111111110011010101111000101110100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 8859.724
+The first Exponent: 140 , 10001100
+The first Significand: 683749, 10100110111011100101
+The second decimalNumber_2: 8006.0083
+The second Exponent: 139, 10001011
+The second Significand: 8007697, 11110100011000000010001
+The result: 7.0931024E7
+The result of decimalNumber_1*decimalNumber_2: 7.0931024E7
+The result Exponent: 26, 11010
+The result Significand: 1.0569546222686768, 11111111110000111010010100100101000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 4493.6455
+The first Exponent: 139 , 10001011
+The first Significand: 814378, 11000110110100101010
+The second decimalNumber_2: 3564.0293
+The second Exponent: 138, 10001010
+The second Significand: 6209656, 10111101100000001111000
+The result: 1.6015484E7
+The result of decimalNumber_1*decimalNumber_2: 1.6015484E7
+The result Exponent: 23, 10111
+The result Significand: 1.9091944694519043, 11111111111110100011000000111110000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 1036.8866
+The first Exponent: 137 , 10001001
+The first Significand: 105567, 11001110001011111
+The second decimalNumber_2: 6620.1357
+The second Exponent: 139, 10001011
+The second Significand: 5169430, 10011101110000100010110
+The result: 6864330.0
+The result of decimalNumber_1*decimalNumber_2: 6864330.0
+The result Exponent: 22, 10110
+The result Significand: 1.6365838050842285, 11111111111010001011110111001010000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 3647.315
+The first Exponent: 138 , 10001010
+The first Significand: 6550794, 11000111111010100001010
+The second decimalNumber_2: 2838.8584
+The second Exponent: 138, 10001010
+The second Significand: 3239356, 1100010110110110111100
+The result: 1.0354211E7
+The result of decimalNumber_1*decimalNumber_2: 1.0354211E7
+The result Exponent: 23, 10111
+The result Significand: 1.2343181371688843, 11111111110011101111111100010001100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 2505.6416
+The first Exponent: 138 , 10001010
+The first Significand: 1874500, 111001001101001000100
+The second decimalNumber_2: 3829.2646
+The second Exponent: 138, 10001010
+The second Significand: 7296060, 11011110101010000111100
+The result: 9594765.0
+The result of decimalNumber_1*decimalNumber_2: 9594765.0
+The result Exponent: 23, 10111
+The result Significand: 1.1437851190567017, 11111111110010010011001111000110100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 5937.266
+The first Exponent: 139 , 10001011
+The first Significand: 3770913, 1110011000101000100001
+The second decimalNumber_2: 8672.915
+The second Exponent: 140, 10001100
+The second Significand: 492457, 1111000001110101001
+The result: 5.1493404E7
+The result of decimalNumber_1*decimalNumber_2: 5.1493404E7
+The result Exponent: 25, 11001
+The result Significand: 1.5346230268478394, 11111111111000100011011101000011100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 8977.148
+The first Exponent: 140 , 10001100
+The first Significand: 803992, 11000100010010011000
+The second decimalNumber_2: 296.14984
+The second Exponent: 135, 10000111
+The second Significand: 1315630, 101000001001100101110
+The result: 2658581.0
+The result of decimalNumber_1*decimalNumber_2: 2658581.0
+The result Exponent: 21, 10101
+The result Significand: 1.2677102088928223, 11111111110100010010001000101010000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 6583.5356
+The first Exponent: 139 , 10001011
+The first Significand: 5094473, 10011011011110001001001
+The second decimalNumber_2: 3135.857
+The second Exponent: 138, 10001010
+The second Significand: 4455862, 10000111111110110110110
+The result: 2.0645026E7
+The result of decimalNumber_1*decimalNumber_2: 2.0645026E7
+The result Exponent: 24, 11000
+The result Significand: 1.2305394411087036, 11111111110011101100000100101000100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 3042.916
+The first Exponent: 138 , 10001010
+The first Significand: 4075176, 1111100010111010101000
+The second decimalNumber_2: 9997.975
+The second Exponent: 140, 10001100
+The second Significand: 1849318, 111000011011111100110
+The result: 3.0422998E7
+The result of decimalNumber_1*decimalNumber_2: 3.0422998E7
+The result Exponent: 24, 11000
+The result Significand: 1.8133519887924194, 11111111111101000000110111110101100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 1824.6979
+The first Exponent: 137 , 10001001
+The first Significand: 6559317, 11001000001011001010101
+The second decimalNumber_2: 3662.1917
+The second Exponent: 138, 10001010
+The second Significand: 6611729, 11001001110001100010001
+The result: 6682393.5
+The result of decimalNumber_1*decimalNumber_2: 6682393.5
+The result Exponent: 22, 10110
+The result Significand: 1.593206763267517, 11111111111001011111011100011001100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 3309.588
+The first Exponent: 138 , 10001010
+The first Significand: 5167464, 10011101101100101101000
+The second decimalNumber_2: 1692.3035
+The second Exponent: 137, 10001001
+The second Significand: 5474742, 10100111000100110110110
+The result: 5600827.0
+The result of decimalNumber_1*decimalNumber_2: 5600827.0
+The result Exponent: 22, 10110
+The result Significand: 1.335341215133667, 11111111110101010111011000111011000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 5079.9604
+The first Exponent: 139 , 10001011
+The first Significand: 2015151, 111101011111110101111
+The second decimalNumber_2: 2732.7627
+The second Exponent: 138, 10001010
+The second Significand: 2804788, 1010101100110000110100
+The result: 1.3882326E7
+The result of decimalNumber_1*decimalNumber_2: 1.3882326E7
+The result Exponent: 23, 10111
+The result Significand: 1.6549022197723389, 11111111111010011110100111101011000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 6203.2134
+The first Exponent: 139 , 10001011
+The first Significand: 4315573, 10000011101100110110101
+The second decimalNumber_2: 4003.6106
+The second Exponent: 138, 10001010
+The second Significand: 8010181, 11110100011100111000101
+The result: 2.483525E7
+The result of decimalNumber_1*decimalNumber_2: 2.483525E7
+The result Exponent: 24, 11000
+The result Significand: 1.48029625415802, 11111111110111101011110100101100100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 1275.3511
+The first Exponent: 137 , 10001001
+The first Significand: 2059068, 111110110101100111100
+The second decimalNumber_2: 9087.075
+The second Exponent: 140, 10001100
+The second Significand: 916557, 11011111110001001101
+The result: 1.1589211E7
+The result of decimalNumber_1*decimalNumber_2: 1.1589211E7
+The result Exponent: 23, 10111
+The result Significand: 1.3815416097640991, 11111111110110000110101100101101100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 886.39496
+The first Exponent: 136 , 10001000
+The first Significand: 6134087, 10111011001100101000111
+The second decimalNumber_2: 2794.2656
+The second Exponent: 138, 10001010
+The second Significand: 3056704, 1011101010010001000000
+The result: 2476823.0
+The result of decimalNumber_1*decimalNumber_2: 2476823.0
+The result Exponent: 21, 10101
+The result Significand: 1.1810412406921387, 11111111110010111001011000101110000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 2559.411
+The first Exponent: 138 , 10001010
+The first Significand: 2094739, 111111111011010010011
+The second decimalNumber_2: 9938.127
+The second Exponent: 140, 10001100
+The second Significand: 1788034, 110110100100010000010
+The result: 2.543575E7
+The result of decimalNumber_1*decimalNumber_2: 2.543575E7
+The result Exponent: 24, 11000
+The result Significand: 1.516088843345642, 11111111111000010000011110011001100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 2374.4756
+The first Exponent: 138 , 10001010
+The first Significand: 1337244, 101000110011110011100
+The second decimalNumber_2: 8331.7295
+The second Exponent: 140, 10001100
+The second Significand: 143083, 100010111011101011
+The result: 1.9783488E7
+The result of decimalNumber_1*decimalNumber_2: 1.9783488E7
+The result Exponent: 24, 11000
+The result Significand: 1.1791877746582031, 11111111110010110111011111010000000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 977.5019
+The first Exponent: 136 , 10001000
+The first Significand: 7626783, 11101000110000000011111
+The second decimalNumber_2: 8367.406
+The second Exponent: 140, 10001100
+The second Significand: 179616, 101011110110100000
+The result: 8179155.5
+The result of decimalNumber_1*decimalNumber_2: 8179155.5
+The result Exponent: 22, 10110
+The result Significand: 1.95006263256073, 11111111111111001100110111010011100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 1978.9088
+The first Exponent: 137 , 10001001
+The first Significand: 7822613, 11101110101110100010101
+The second decimalNumber_2: 8965.582
+The second Exponent: 140, 10001100
+The second Significand: 792148, 11000001011001010100
+The result: 1.774207E7
+The result of decimalNumber_1*decimalNumber_2: 1.774207E7
+The result Exponent: 24, 11000
+The result Significand: 1.0575097799301147, 11111111110000111010111000111101100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 7561.2397
+The first Exponent: 139 , 10001011
+The first Significand: 7096811, 11011000100100111101011
+The second decimalNumber_2: 7391.9414
+The second Exponent: 139, 10001011
+The second Significand: 6750088, 11001101111111110001000
+The result: 5.589224E7
+The result of decimalNumber_1*decimalNumber_2: 5.589224E7
+The result Exponent: 25, 11001
+The result Significand: 1.6657185554504395, 11111111111010101001101100100010000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 3434.1414
+The first Exponent: 138 , 10001010
+The first Significand: 5677635, 10101101010001001000011
+The second decimalNumber_2: 5586.104
+The second Exponent: 139, 10001011
+The second Significand: 3051733, 1011101001000011010101
+The result: 1.918347E7
+The result of decimalNumber_1*decimalNumber_2: 1.918347E7
+The result Exponent: 24, 11000
+The result Significand: 1.1434239149093628, 11111111110010010010110111011011100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 9759.379
+The first Exponent: 140 , 10001100
+The first Significand: 1604996, 110000111110110000100
+The second decimalNumber_2: 7467.0674
+The second Exponent: 139, 10001011
+The second Significand: 6903946, 11010010101100010001010
+The result: 7.2873936E7
+The result of decimalNumber_1*decimalNumber_2: 7.2873936E7
+The result Exponent: 26, 11010
+The result Significand: 1.0859062671661377, 11111111110001010111111101111101000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 3694.797
+The first Exponent: 138 , 10001010
+The first Significand: 6745281, 11001101110110011000001
+The second decimalNumber_2: 8623.68
+The second Exponent: 140, 10001100
+The second Significand: 442040, 1101011111010111000
+The result: 3.1862746E7
+The result of decimalNumber_1*decimalNumber_2: 3.1862746E7
+The result Exponent: 24, 11000
+The result Significand: 1.8991676568984985, 11111111111110011000101111110110100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 157.93085
+The first Exponent: 134 , 10000110
+The first Significand: 1961548, 111011110111001001100
+The second decimalNumber_2: 4168.031
+The second Exponent: 139, 10001011
+The second Significand: 147519, 100100000000111111
+The result: 658260.625
+The result of decimalNumber_1*decimalNumber_2: 658260.6
+The result Exponent: 19, 10011
+The result Significand: 1.2555325031280518, 11111111110100000101101010100101000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 4398.727
+The first Exponent: 139 , 10001011
+The first Significand: 619985, 10010111010111010001
+The second decimalNumber_2: 3201.8667
+The second Exponent: 138, 10001010
+The second Significand: 4726238, 10010000001110111011110
+The result: 1.4084138E7
+The result of decimalNumber_1*decimalNumber_2: 1.4084138E7
+The result Exponent: 23, 10111
+The result Significand: 1.6789600849151611, 11111111111010110111010000010101000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 8781.951
+The first Exponent: 140 , 10001100
+The first Significand: 604110, 10010011011111001110
+The second decimalNumber_2: 6715.138
+The second Exponent: 139, 10001011
+The second Significand: 5363995, 10100011101100100011011
+The result: 5.8972016E7
+The result of decimalNumber_1*decimalNumber_2: 5.8972016E7
+The result Exponent: 25, 11001
+The result Significand: 1.7575030326843262, 11111111111100000111101011101110000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 4502.9067
+The first Exponent: 139 , 10001011
+The first Significand: 833345, 11001011011101000001
+The second decimalNumber_2: 5367.554
+The second Exponent: 139, 10001011
+The second Significand: 2604143, 1001111011110001101111
+The result: 2.4169596E7
+The result of decimalNumber_1*decimalNumber_2: 2.4169596E7
+The result Exponent: 24, 11000
+The result Significand: 1.4406201839447021, 11111111110111000011001100011111000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 7567.071
+The first Exponent: 139 , 10001011
+The first Significand: 7108753, 11011000111100010010001
+The second decimalNumber_2: 2601.1372
+The second Exponent: 138, 10001010
+The second Significand: 2265650, 1000101001001000110010
+The result: 1.968299E7
+The result of decimalNumber_1*decimalNumber_2: 1.968299E7
+The result Exponent: 24, 11000
+The result Significand: 1.173197627067566, 11111111110010110001010110101011100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 9738.942
+The first Exponent: 140 , 10001100
+The first Significand: 1584069, 110000010101111000101
+The second decimalNumber_2: 3483.14
+The second Exponent: 138, 10001010
+The second Significand: 5878333, 10110011011001000111101
+The result: 3.39221E7
+The result of decimalNumber_1*decimalNumber_2: 3.39221E7
+The result Exponent: 25, 11001
+The result Significand: 1.0109573602676392, 11111111110000001011001110000110100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 4208.9185
+The first Exponent: 139 , 10001011
+The first Significand: 231257, 111000011101011001
+The second decimalNumber_2: 1843.2307
+The second Exponent: 137, 10001001
+The second Significand: 6711138, 11001100110011101100010
+The result: 7758008.0
+The result of decimalNumber_1*decimalNumber_2: 7758008.0
+The result Exponent: 22, 10110
+The result Significand: 1.8496532440185547, 11111111111101100110000010111000000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 3086.2778
+The first Exponent: 138 , 10001010
+The first Significand: 4252786, 10000001110010001110010
+The second decimalNumber_2: 8088.2227
+The second Exponent: 139, 10001011
+The second Significand: 8176072, 11111001100000111001000
+The result: 2.4962502E7
+The result of decimalNumber_1*decimalNumber_2: 2.4962502E7
+The result Exponent: 24, 11000
+The result Significand: 1.487881064414978, 11111111110111110011100101110001100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 5951.3086
+The first Exponent: 139 , 10001011
+The first Significand: 3799672, 1110011111101001111000
+The second decimalNumber_2: 3980.8804
+The second Exponent: 138, 10001010
+The second Significand: 7917078, 11110001100111000010110
+The result: 2.3691448E7
+The result of decimalNumber_1*decimalNumber_2: 2.3691448E7
+The result Exponent: 24, 11000
+The result Significand: 1.4121203422546387, 11111111110110100110000000101110000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 1848.3961
+The first Exponent: 137 , 10001001
+The first Significand: 6753453, 11001110000110010101101
+The second decimalNumber_2: 3812.6558
+The second Exponent: 138, 10001010
+The second Significand: 7228030, 11011100100101001111110
+The result: 7047298.0
+The result of decimalNumber_1*decimalNumber_2: 7047298.0
+The result Exponent: 22, 10110
+The result Significand: 1.6802067756652832, 11111111111010111000100010000010000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 6534.089
+The first Exponent: 139 , 10001011
+The first Significand: 4993206, 10011000011000010110110
+The second decimalNumber_2: 9341.343
+The second Exponent: 140, 10001100
+The second Significand: 1176927, 100011111010101011111
+The result: 6.1037164E7
+The result of decimalNumber_1*decimalNumber_2: 6.1037164E7
+The result Exponent: 25, 11001
+The result Significand: 1.8190492391586304, 11111111111101000110101101001101100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 5087.685
+The first Exponent: 139 , 10001011
+The first Significand: 2030971, 111101111110101111011
+The second decimalNumber_2: 142.39609
+The second Exponent: 134, 10000110
+The second Significand: 943462, 11100110010101100110
+The result: 724466.4375
+The result of decimalNumber_1*decimalNumber_2: 724466.44
+The result Exponent: 19, 10011
+The result Significand: 1.3818100690841675, 11111111110110000110111110010011100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 2162.801
+The first Exponent: 138 , 10001010
+The first Significand: 470225, 1110010110011010001
+The second decimalNumber_2: 7472.639
+The second Exponent: 139, 10001011
+The second Significand: 6915357, 11010011000010100011101
+The result: 1.6161832E7
+The result of decimalNumber_1*decimalNumber_2: 1.6161832E7
+The result Exponent: 23, 10111
+The result Significand: 1.926640510559082, 11111111111110110100111000010100000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 6383.985
+The first Exponent: 139 , 10001011
+The first Significand: 4685793, 10001110111111111100001
+The second decimalNumber_2: 8557.368
+The second Exponent: 140, 10001100
+The second Significand: 374137, 1011011010101111001
+The result: 5.4630108E7
+The result of decimalNumber_1*decimalNumber_2: 5.4630108E7
+The result Exponent: 25, 11001
+The result Significand: 1.6281040906906128, 11111111111010000011001011011011100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 3147.487
+The first Exponent: 138 , 10001010
+The first Significand: 4503499, 10001001011011111001011
+The second decimalNumber_2: 6075.6826
+The second Exponent: 139, 10001011
+The second Significand: 4054390, 1111011101110101110110
+The result: 1.9123132E7
+The result of decimalNumber_1*decimalNumber_2: 1.9123132E7
+The result Exponent: 24, 11000
+The result Significand: 1.1398274898529053, 11111111110010001111001011101111000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 7169.31
+The first Exponent: 139 , 10001011
+The first Significand: 6294139, 11000000000101001111011
+The second decimalNumber_2: 3127.4658
+The second Exponent: 138, 10001010
+The second Significand: 4421492, 10000110111011101110100
+The result: 2.2421772E7
+The result of decimalNumber_1*decimalNumber_2: 2.2421772E7
+The result Exponent: 24, 11000
+The result Significand: 1.3364417552947998, 11111111110101011000100001000011000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 6551.9717
+The first Exponent: 139 , 10001011
+The first Significand: 5029830, 10011001011111111000110
+The second decimalNumber_2: 9061.52
+The second Exponent: 140, 10001100
+The second Significand: 890388, 11011001011000010100
+The result: 5.937082E7
+The result of decimalNumber_1*decimalNumber_2: 5.937082E7
+The result Exponent: 25, 11001
+The result Significand: 1.7693883180618286, 11111111111100010011110110101000100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 8895.742
+The first Exponent: 140 , 10001100
+The first Significand: 720632, 10101111111011111000
+The second decimalNumber_2: 1599.8584
+The second Exponent: 137, 10001001
+The second Significand: 4717432, 10001111111101101111000
+The result: 1.4231928E7
+The result of decimalNumber_1*decimalNumber_2: 1.4231928E7
+The result Exponent: 23, 10111
+The result Significand: 1.696578025817871, 11111111111011001001010010111100000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 4299.265
+The first Exponent: 139 , 10001011
+The first Significand: 416287, 1100101101000011111
+The second decimalNumber_2: 2327.0608
+The second Exponent: 138, 10001010
+The second Significand: 1143033, 100010111000011111001
+The result: 1.0004651E7
+The result of decimalNumber_1*decimalNumber_2: 1.0004651E7
+The result Exponent: 23, 10111
+The result Significand: 1.1926473379135132, 11111111110011000101010001010101100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 8270.886
+The first Exponent: 140 , 10001100
+The first Significand: 80779, 10011101110001011
+The second decimalNumber_2: 3815.0137
+The second Exponent: 138, 10001010
+The second Significand: 7237688, 11011100111000000111000
+The result: 3.1553542E7
+The result of decimalNumber_1*decimalNumber_2: 3.1553542E7
+The result Exponent: 24, 11000
+The result Significand: 1.8807376623153687, 11111111111110000101111000000001100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 4320.8223
+The first Exponent: 139 , 10001011
+The first Significand: 460436, 1110000011010010100
+The second decimalNumber_2: 8616.703
+The second Exponent: 140, 10001100
+The second Significand: 434896, 1101010001011010000
+The result: 3.7231244E7
+The result of decimalNumber_1*decimalNumber_2: 3.7231244E7
+The result Exponent: 25, 11001
+The result Significand: 1.1095775365829468, 11111111110001110000001101010001100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 8025.716
+The first Exponent: 139 , 10001011
+The first Significand: 8048058, 11110101100110110111010
+The second decimalNumber_2: 6212.568
+The second Exponent: 139, 10001011
+The second Significand: 4334731, 10000100010010010001011
+The result: 4.9860304E7
+The result of decimalNumber_1*decimalNumber_2: 4.9860304E7
+The result Exponent: 25, 11001
+The result Significand: 1.4859528541564941, 11111111110111110001100111011010000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 4638.0425
+The first Exponent: 139 , 10001011
+The first Significand: 1110103, 100001111000001010111
+The second decimalNumber_2: 3481.422
+The second Exponent: 138, 10001010
+The second Significand: 5871297, 10110011001011011000001
+The result: 1.6146984E7
+The result of decimalNumber_1*decimalNumber_2: 1.6146984E7
+The result Exponent: 23, 10111
+The result Significand: 1.924870491027832, 11111111111110110011000100010100000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 3702.3215
+The first Exponent: 138 , 10001010
+The first Significand: 6776101, 11001110110010100100101
+The second decimalNumber_2: 681.72516
+The second Exponent: 136, 10001000
+The second Significand: 2780777, 1010100110111001101001
+The result: 2523965.75
+The result of decimalNumber_1*decimalNumber_2: 2523965.8
+The result Exponent: 21, 10101
+The result Significand: 1.203520655632019, 11111111110011010000011001111011100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 3204.9412
+The first Exponent: 138 , 10001010
+The first Significand: 4738831, 10010000100111100001111
+The second decimalNumber_2: 3693.2783
+The second Exponent: 138, 10001010
+The second Significand: 6739060, 11001101101010001110100
+The result: 1.183674E7
+The result of decimalNumber_1*decimalNumber_2: 1.183674E7
+The result Exponent: 23, 10111
+The result Significand: 1.4110493659973145, 11111111110110100100111010100010000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 1608.7681
+The first Exponent: 137 , 10001001
+The first Significand: 4790420, 10010010001100010010100
+The second decimalNumber_2: 2732.429
+The second Exponent: 138, 10001010
+The second Significand: 2803421, 1010101100011011011101
+The result: 4395844.5
+The result of decimalNumber_1*decimalNumber_2: 4395844.5
+The result Exponent: 22, 10110
+The result Significand: 1.0480509996414185, 11111111110000110001001101000100100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 1813.988
+The first Exponent: 137 , 10001001
+The first Significand: 6471582, 11000101011111110011110
+The second decimalNumber_2: 3804.7373
+The second Exponent: 138, 10001010
+The second Significand: 7195596, 11011011100101111001100
+The result: 6901748.0
+The result of decimalNumber_1*decimalNumber_2: 6901748.0
+The result Exponent: 22, 10110
+The result Significand: 1.6455049514770508, 11111111111010010100111111110100000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 2029.2598
+The first Exponent: 137 , 10001001
+The first Significand: 8235088, 11111011010100001010000
+The second decimalNumber_2: 9967.291
+The second Exponent: 140, 10001100
+The second Significand: 1817898, 110111011110100101010
+The result: 2.0226222E7
+The result of decimalNumber_1*decimalNumber_2: 2.0226222E7
+The result Exponent: 24, 11000
+The result Significand: 1.205576777458191, 11111111110011010010100000101011100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 4994.8613
+The first Exponent: 139 , 10001011
+The first Significand: 1840868, 111000001011011100100
+The second decimalNumber_2: 5638.5093
+The second Exponent: 139, 10001011
+The second Significand: 3159059, 1100000011010000010011
+The result: 2.8163572E7
+The result of decimalNumber_1*decimalNumber_2: 2.8163572E7
+The result Exponent: 24, 11000
+The result Significand: 1.6786797046661377, 11111111111010110110111101111101000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 7333.9277
+The first Exponent: 139 , 10001011
+The first Significand: 6631276, 11001010010111101101100
+The second decimalNumber_2: 8889.155
+The second Exponent: 140, 10001100
+The second Significand: 713887, 10101110010010011111
+The result: 6.5192424E7
+The result of decimalNumber_1*decimalNumber_2: 6.5192424E7
+The result Exponent: 25, 11001
+The result Significand: 1.9428856372833252, 11111111111111000101100000111101000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 3577.5698
+The first Exponent: 138 , 10001010
+The first Significand: 6265118, 10111111001100100011110
+The second decimalNumber_2: 4850.726
+The second Exponent: 139, 10001011
+The second Significand: 1545679, 101111001010111001111
+The result: 1.7353812E7
+The result of decimalNumber_1*decimalNumber_2: 1.7353812E7
+The result Exponent: 24, 11000
+The result Significand: 1.0343677997589111, 11111111110000100011001100010101000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 6202.158
+The first Exponent: 139 , 10001011
+The first Significand: 4313412, 10000011101000101000100
+The second decimalNumber_2: 9576.492
+The second Exponent: 140, 10001100
+The second Significand: 1417720, 101011010000111111000
+The result: 5.939492E7
+The result of decimalNumber_1*decimalNumber_2: 5.939492E7
+The result Exponent: 25, 11001
+The result Significand: 1.770106554031372, 11111111111100010100100101101101000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 9363.597
+The first Exponent: 140 , 10001100
+The first Significand: 1199715, 100100100111001100011
+The second decimalNumber_2: 5979.855
+The second Exponent: 139, 10001011
+The second Significand: 3858135, 1110101101111011010111
+The result: 5.5992952E7
+The result of decimalNumber_1*decimalNumber_2: 5.5992952E7
+The result Exponent: 25, 11001
+The result Significand: 1.668720006942749, 11111111111010101100110001001111000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 9934.673
+The first Exponent: 140 , 10001100
+The first Significand: 1784497, 110110011101010110001
+The second decimalNumber_2: 1407.0975
+The second Exponent: 137, 10001001
+The second Significand: 3138335, 1011111110001100011111
+The result: 1.3979054E7
+The result of decimalNumber_1*decimalNumber_2: 1.3979054E7
+The result Exponent: 23, 10111
+The result Significand: 1.6664330959320068, 11111111111010101010011011010111000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 5266.2383
+The first Exponent: 139 , 10001011
+The first Significand: 2396648, 1001001001000111101000
+The second decimalNumber_2: 9753.144
+The second Exponent: 140, 10001100
+The second Significand: 1598611, 110000110010010010011
+The result: 5.1362376E7
+The result of decimalNumber_1*decimalNumber_2: 5.1362376E7
+The result Exponent: 25, 11001
+The result Significand: 1.5307180881500244, 11111111111000011111011101001001000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 3846.2717
+The first Exponent: 138 , 10001010
+The first Significand: 7365721, 11100000110010001011001
+The second decimalNumber_2: 5069.8403
+The second Exponent: 139, 10001011
+The second Significand: 1994425, 111100110111010111001
+The result: 1.9499984E7
+The result of decimalNumber_1*decimalNumber_2: 1.9499984E7
+The result Exponent: 24, 11000
+The result Significand: 1.1622896194458008, 11111111110010100110001011110100000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 9994.283
+The first Exponent: 140 , 10001100
+The first Significand: 1845538, 111000010100100100010
+The second decimalNumber_2: 5378.731
+The second Exponent: 139, 10001011
+The second Significand: 2627033, 1010000001010111011001
+The result: 5.375656E7
+The result of decimalNumber_1*decimalNumber_2: 5.375656E7
+The result Exponent: 25, 11001
+The result Significand: 1.6020703315734863, 11111111111001101000100001010010000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 5555.402
+The first Exponent: 139 , 10001011
+The first Significand: 2988855, 1011011001101100110111
+The second decimalNumber_2: 2412.799
+The second Exponent: 138, 10001010
+The second Significand: 1494217, 101101100110011001001
+The result: 1.3404068E7
+The result of decimalNumber_1*decimalNumber_2: 1.3404068E7
+The result Exponent: 23, 10111
+The result Significand: 1.5978894233703613, 11111111111001100100001111010010000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 9612.708
+The first Exponent: 140 , 10001100
+The first Significand: 1454805, 101100011001011010101
+The second decimalNumber_2: 7397.0293
+The second Exponent: 139, 10001011
+The second Significand: 6760508, 11001110010100000111100
+The result: 7.110548E7
+The result of decimalNumber_1*decimalNumber_2: 7.110548E7
+The result Exponent: 26, 11010
+The result Significand: 1.0595542192459106, 11111111110000111100111110111100100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 3283.839
+The first Exponent: 138 , 10001010
+The first Significand: 5061997, 10011010011110101101101
+The second decimalNumber_2: 2082.5588
+The second Exponent: 138, 10001010
+The second Significand: 141553, 100010100011110001
+The result: 6838788.0
+The result of decimalNumber_1*decimalNumber_2: 6838788.0
+The result Exponent: 22, 10110
+The result Significand: 1.6304941177368164, 11111111111010000101101000000100000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 1879.0072
+The first Exponent: 137 , 10001001
+The first Significand: 7004219, 11010101110000000111011
+The second decimalNumber_2: 904.26624
+The second Exponent: 136, 10001000
+The second Significand: 6426890, 11000100001000100001010
+The result: 1699122.75
+The result of decimalNumber_1*decimalNumber_2: 1699122.8
+The result Exponent: 20, 10100
+The result Significand: 1.6204097270965576, 11111111111001111011010011001011000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 7363.3105
+The first Exponent: 139 , 10001011
+The first Significand: 6691452, 11001100001101001111100
+The second decimalNumber_2: 4892.5547
+The second Exponent: 139, 10001011
+The second Significand: 1631344, 110001110010001110000
+The result: 3.60254E7
+The result of decimalNumber_1*decimalNumber_2: 3.60254E7
+The result Exponent: 25, 11001
+The result Significand: 1.0736405849456787, 11111111110001001011011010000111000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 6470.793
+The first Exponent: 139 , 10001011
+The first Significand: 4863576, 10010100011011001011000
+The second decimalNumber_2: 4042.84
+The second Exponent: 138, 10001010
+The second Significand: 8170865, 11111001010110101110001
+The result: 2.6160382E7
+The result of decimalNumber_1*decimalNumber_2: 2.6160382E7
+The result Exponent: 24, 11000
+The result Significand: 1.559280276298523, 11111111111000111100101100111111100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 1150.8394
+The first Exponent: 137 , 10001001
+The first Significand: 1039068, 11111101101011011100
+The second decimalNumber_2: 7692.6284
+The second Exponent: 139, 10001011
+The second Significand: 7365895, 11100000110010100000111
+The result: 8852980.0
+The result of decimalNumber_1*decimalNumber_2: 8852980.0
+The result Exponent: 23, 10111
+The result Significand: 1.0553574562072754, 11111111110000111000101011111010000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 7979.478
+The first Exponent: 139 , 10001011
+The first Significand: 7953363, 11110010101101111010011
+The second decimalNumber_2: 4010.054
+The second Exponent: 138, 10001010
+The second Significand: 8036573, 11110101010000011011101
+The result: 3.1998138E7
+The result of decimalNumber_1*decimalNumber_2: 3.1998138E7
+The result Exponent: 24, 11000
+The result Significand: 1.9072376489639282, 11111111111110100001000000101110100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 9878.784
+The first Exponent: 140 , 10001100
+The first Significand: 1727267, 110100101101100100011
+The second decimalNumber_2: 1507.9504
+The second Exponent: 137, 10001001
+The second Significand: 3964522, 1111000111111001101010
+The result: 1.4896717E7
+The result of decimalNumber_1*decimalNumber_2: 1.4896717E7
+The result Exponent: 23, 10111
+The result Significand: 1.7758270502090454, 11111111111100011010011100100110100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 4332.575
+The first Exponent: 139 , 10001011
+The first Significand: 484506, 1110110010010011010
+The second decimalNumber_2: 3081.0571
+The second Exponent: 138, 10001010
+The second Significand: 4231402, 10000001001000011101010
+The result: 1.3348912E7
+The result of decimalNumber_1*decimalNumber_2: 1.3348912E7
+The result Exponent: 23, 10111
+The result Significand: 1.5913143157958984, 11111111111001011101100000011000000000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 7325.3467
+The first Exponent: 139 , 10001011
+The first Significand: 6613702, 11001001110101011000110
+The second decimalNumber_2: 2512.9216
+The second Exponent: 138, 10001010
+The second Significand: 1904319, 111010000111010111111
+The result: 1.8408022E7
+The result of decimalNumber_1*decimalNumber_2: 1.8408022E7
+The result Exponent: 24, 11000
+The result Significand: 1.0972036123275757, 11111111110001100011100010010101100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 9294.092
+The first Exponent: 140 , 10001100
+The first Significand: 1128542, 100010011100001011110
+The second decimalNumber_2: 4354.6294
+The second Exponent: 139, 10001011
+The second Significand: 529673, 10000001010100001001
+The result: 4.0472324E7
+The result of decimalNumber_1*decimalNumber_2: 4.0472324E7
+The result Exponent: 25, 11001
+The result Significand: 1.2061692476272583, 11111111110011010011000111100000100000000000000000000000000000
+The Error: 0.0
+ 
+The first decimalNumber_1: 8003.7876
+The first Exponent: 139 , 10001011
+The first Significand: 8003149, 11110100001111001001101
+The second decimalNumber_2: 1591.8362
+The second Exponent: 137, 10001001
+The second Significand: 4651714, 10001101111101011000010
+The result: 1.2740719E7
+The result of decimalNumber_1*decimalNumber_2: 1.2740719E7
+The result Exponent: 23, 10111
+The result Significand: 1.5188120603561401, 11111111111000010011010000110111100000000000000000000000000000
+The Error: 0.0
+ 

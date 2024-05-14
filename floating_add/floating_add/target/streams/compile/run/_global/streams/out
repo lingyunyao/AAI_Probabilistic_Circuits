@@ -1,0 +1,14 @@
+[0m[[0m[31merror[0m] [0m[0mchisel3.package$ExpectedHardwareException: 'Reset' must be hardware, not a bare Chisel type. Perhaps you forgot to wrap it in Wire(_) or IO(_)?[0m
+[0m[[0m[31merror[0m] [0m[0m	at ... ()[0m
+[0m[[0m[31merror[0m] [0m[0m	at AddRawFN.$anonfun$new$29(add.scala:59)[0m
+[0m[[0m[31merror[0m] [0m[0m	at chisel3.internal.prefix$.apply(prefix.scala:48)[0m
+[0m[[0m[31merror[0m] [0m[0m	at AddRawFN.$anonfun$new$28(add.scala:59)[0m
+[0m[[0m[31merror[0m] [0m[0m	at chisel3.internal.plugin.package$.autoNameRecursively(package.scala:33)[0m
+[0m[[0m[31merror[0m] [0m[0m	at AddRawFN.$anonfun$new$1(add.scala:59)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)[0m
+[0m[[0m[31merror[0m] [0m[0m	at chisel3.withReset$.apply(MultiClock.scala:66)[0m
+[0m[[0m[31merror[0m] [0m[0m	at AddRawFN.<init>(add.scala:35)[0m
+[0m[[0m[31merror[0m] [0m[0m	at GenerateVerilog_AddRawFN$.$anonfun$new$1(main.scala:10)[0m
+[0m[[0m[31merror[0m] [0m[0m	at ... ()[0m
+[0m[[0m[31merror[0m] [0m[0m	at ... (Stack trace trimmed to user code only. Rerun with --full-stacktrace to see the full stack trace)[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mrun[0m) chisel3.package$ExpectedHardwareException: 'Reset' must be hardware, not a bare Chisel type. Perhaps you forgot to wrap it in Wire(_) or IO(_)?[0m

@@ -1,0 +1,8 @@
+{
+    "nltcs_11_3_float_MAP": {
+        "numerical_loss_before": "none",
+        "numerical_loss_after": "none",
+        "string_accuracy": 0.99655,
+        "normalization_constant": "none"
+    }
+}

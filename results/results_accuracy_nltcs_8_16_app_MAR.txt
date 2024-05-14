@@ -1,0 +1,8 @@
+{
+    "nltcs_8_16_app_MAR": {
+        "numerical_loss_before": 0.5279296094067373,
+        "numerical_loss_after": 0.06590793417572348,
+        "string_accuracy": "none",
+        "normalization_constant": 0.5918198622831952
+    }
+}

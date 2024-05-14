@@ -1,0 +1,8 @@
+{
+    "dna_8_6_app_MAR": {
+        "numerical_loss_before": 8.756647900702083,
+        "numerical_loss_after": 8.733587794850877,
+        "string_accuracy": "none",
+        "normalization_constant": 0.9772037463450879
+    }
+}

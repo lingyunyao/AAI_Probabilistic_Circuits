@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/peng/project/0613_add/src/main/scala/add.scala:35:25: value unary_~ is not a member of chisel3.AsyncReset[0m
+[0m[[0m[31merror[0m] [0m[0m    val invertedReset = ~io.asyncResetSignal[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

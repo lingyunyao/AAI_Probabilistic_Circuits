@@ -1,0 +1,8 @@
+{
+    "nltcs_11_17_float_MAR": {
+        "numerical_loss_before": 4.1927052417871794e-05,
+        "numerical_loss_after": 4.1927052417871794e-05,
+        "string_accuracy": "none",
+        "normalization_constant": "none"
+    }
+}

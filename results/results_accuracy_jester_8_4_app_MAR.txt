@@ -1,0 +1,8 @@
+{
+    "jester_8_4_app_MAR": {
+        "numerical_loss_before": 6.493192976838022,
+        "numerical_loss_after": 0.19705312806082026,
+        "string_accuracy": "none",
+        "normalization_constant": 0.0015594961338188235
+    }
+}

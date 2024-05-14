@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/home/peng/project/0613_add/src/test/scala/test.scala:23:29: value resetDriver is not a member of chisel3.Bundle{val a: RawFloat; val b: RawFloat; val rawOut: RawFloat; val asyncResetSignal: chisel3.AsyncReset}[0m
+[0m[[0m[31merror[0m] [0m[0m  io.asyncResetSignal := io.resetDriver.asAsyncReset[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/peng/project/0613_add/src/test/scala/test.scala:41:16: value resetDriver is not a member of chisel3.Bundle{val a: RawFloat; val b: RawFloat; val rawOut: RawFloat; val asyncResetSignal: chisel3.AsyncReset}[0m
+[0m[[0m[31merror[0m] [0m[0m        dut.io.resetDriver.poke(true.B)  // Assert reset[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/peng/project/0613_add/src/test/scala/test.scala:44:16: value resetDriver is not a member of chisel3.Bundle{val a: RawFloat; val b: RawFloat; val rawOut: RawFloat; val asyncResetSignal: chisel3.AsyncReset}[0m
+[0m[[0m[31merror[0m] [0m[0m        dut.io.resetDriver.poke(false.B)  // De-assert reset[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

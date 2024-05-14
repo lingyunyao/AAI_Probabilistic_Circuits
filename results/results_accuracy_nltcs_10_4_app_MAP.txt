@@ -1,0 +1,8 @@
+{
+    "nltcs_10_4_app_MAP": {
+        "numerical_loss_before": "none",
+        "numerical_loss_after": "none",
+        "string_accuracy": 0.99625,
+        "normalization_constant": "none"
+    }
+}

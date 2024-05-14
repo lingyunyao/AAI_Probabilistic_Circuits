@@ -1,0 +1,49 @@
+import chisel3._
+import chiseltest._
+import org.scalatest._
+import org.scalatest.flatspec.AnyFlatSpec
+import java.io.File
+
+class AddRawFNWrapper(expWidth: Int, sigWidth: Int) extends chisel3.Module {
+  val io = IO(new Bundle {
+    val a = Input(new RawFloat(expWidth, sigWidth))
+    val b = Input(new RawFloat(expWidth, sigWidth))
+    val invalidExc = Output(Bool())
+    val rawOut = Output(new RawFloat(expWidth, sigWidth + 2))
+  })
+
+  val addRawFN = Module(new AddRawFN(expWidth, sigWidth))
+  addRawFN.io.a := io.a
+  addRawFN.io.b := io.b
+  io.invalidExc := addRawFN.io.invalidExc
+  io.rawOut := addRawFN.io.rawOut
+}
+class AddRawFNTester extends AnyFlatSpec with ChiselScalatestTester {
+  "AddRawFN" should "add two floating point numbers" in {
+    test(new AddRawFNWrapper(8, 23)).withAnnotations(Seq(WriteVcdAnnotation)) { dut =>
+      dut.io.a.isNaN.poke(false.B)
+      dut.io.a.isInf.poke(false.B)
+      dut.io.a.isZero.poke(false.B)
+      dut.io.a.exp.poke("b10000010".U.litValue)
+      dut.io.a.sig.poke("b00111000000000000000000".U)
+
+      dut.io.b.isNaN.poke(false.B)
+      dut.io.b.isInf.poke(false.B)
+      dut.io.b.isZero.poke(false.B)
+      dut.io.b.exp.poke("b01111110".U.litValue)
+      dut.io.b.sig.poke("b00100000000000000000000".U)
+
+      dut.clock.step(1)
+
+      // Generate VCD file
+      val vcdFileName = "waveform.vcd"
+      val vcdFile = new File(vcdFileName)
+      dut.clock.setTimeout(0)
+      dut.clock.step(10)
+
+      //assert(dut.io.rawOut.sig.peek().litValue == 5.484375)
+      assert(dut.io.rawOut.peek().litValue == 5.484375)
+    }
+  }
+}
+

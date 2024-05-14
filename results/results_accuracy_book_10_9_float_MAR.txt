@@ -1,0 +1,8 @@
+{
+    "book_10_9_float_MAR": {
+        "numerical_loss_before": 0.23972451727722768,
+        "numerical_loss_after": 0.23972451727722768,
+        "string_accuracy": "none",
+        "normalization_constant": "none"
+    }
+}

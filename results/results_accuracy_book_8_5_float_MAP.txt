@@ -1,0 +1,8 @@
+{
+    "book_8_5_float_MAP": {
+        "numerical_loss_before": "none",
+        "numerical_loss_after": "none",
+        "string_accuracy": 0.997564,
+        "normalization_constant": "none"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "dna_9_5_float_MAR": {
+        "numerical_loss_before": 1.9832013607437884,
+        "numerical_loss_after": 1.9832013607437884,
+        "string_accuracy": "none",
+        "normalization_constant": "none"
+    }
+}

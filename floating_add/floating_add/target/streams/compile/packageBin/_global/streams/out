@@ -1,0 +1,27 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/peng/project/0613_add/target/scala-2.13/root-0613_add_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GenerateVerilog_AddFullRawFN.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/peng/project/0613_add/target/scala-2.13/classes/GenerateVerilog_AddFullRawFN.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GenerateVerilog_AddRawFN$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/peng/project/0613_add/target/scala-2.13/classes/GenerateVerilog_AddRawFN$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GenerateVerilog_AddRawFN.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/peng/project/0613_add/target/scala-2.13/classes/GenerateVerilog_AddRawFN.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AddRawFN$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/peng/project/0613_add/target/scala-2.13/classes/AddRawFN$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyModuleMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/peng/project/0613_add/target/scala-2.13/classes/MyModuleMain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GenerateVerilog_AddRawFN$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/peng/project/0613_add/target/scala-2.13/classes/GenerateVerilog_AddRawFN$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyModuleMain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/peng/project/0613_add/target/scala-2.13/classes/MyModuleMain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GenerateVerilog_AddFullRawFN$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/peng/project/0613_add/target/scala-2.13/classes/GenerateVerilog_AddFullRawFN$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	GenerateVerilog_AddFullRawFN$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/peng/project/0613_add/target/scala-2.13/classes/GenerateVerilog_AddFullRawFN$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AddRawFN.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/peng/project/0613_add/target/scala-2.13/classes/AddRawFN.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MyModuleMain$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/peng/project/0613_add/target/scala-2.13/classes/MyModuleMain$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RawFloat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/peng/project/0613_add/target/scala-2.13/classes/RawFloat.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

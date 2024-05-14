@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/peng/project/0601_multi/src/test/scala/test.scala:23:3: not found: value addRawFN[0m
+[0m[[0m[31merror[0m] [0m[0m  addRawFN.io.asyncResetSignal := io.resetDriver.asAsyncReset[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

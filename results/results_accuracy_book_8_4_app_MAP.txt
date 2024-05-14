@@ -1,0 +1,8 @@
+{
+    "book_8_4_app_MAP": {
+        "numerical_loss_before": "none",
+        "numerical_loss_after": "none",
+        "string_accuracy": 0.9957396,
+        "normalization_constant": "none"
+    }
+}

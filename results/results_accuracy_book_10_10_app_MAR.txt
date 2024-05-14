@@ -1,0 +1,8 @@
+{
+    "book_10_10_app_MAR": {
+        "numerical_loss_before": 3.1459183265398347,
+        "numerical_loss_after": 0.8196193336436518,
+        "string_accuracy": "none",
+        "normalization_constant": 0.08622323761682094
+    }
+}

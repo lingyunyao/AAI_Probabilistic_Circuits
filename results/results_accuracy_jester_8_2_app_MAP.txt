@@ -1,0 +1,8 @@
+{
+    "jester_8_2_app_MAP": {
+        "numerical_loss_before": "none",
+        "numerical_loss_after": "none",
+        "string_accuracy": 0.9839227845569114,
+        "normalization_constant": "none"
+    }
+}
