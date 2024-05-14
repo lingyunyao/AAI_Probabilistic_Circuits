@@ -3,7 +3,7 @@
 
 This project is structured as follows:
 
-- **Scripts:** Python scripts used for conducting analysis and generating results.
+- **scripts:** Python scripts used for conducting analysis and generating results.
 - **Data:** Contains the model used in our experiments.
 - **results:** Output from scripts, for sample set analysis.
 - **test_results_mar:** Output from scripts, for test set analysis.
@@ -15,15 +15,25 @@ This project is structured as follows:
 ### Recreating Data
 
 1. **Generate MAP/MAR data with different exponent bits, mantisssa bits for Figures 4, 7, and Table 1**:
+    ```
     sbatch run.sh
+    ```
 2. **Resampling**:
+    ```
     sbatch run_sample.sh 
+    ```
 3. **replacement for Figure 6 and Table 4**:
+    ```
     sbatch run_replacement.sh 
+    ```
 4. **figure8**:
-    use 'numerical_loss_before' for plot of before error correction 
+    use 'numerical_loss_before' for plot of before error correction
+    ```
     python3 analysis.py
+    ```
 5. **figure9**:
     use data in folder test_results_mar 
+    ```
     python3 analysis.py
+    ```
 
