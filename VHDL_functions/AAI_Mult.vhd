@@ -11,7 +11,7 @@ entity ProductNode_Float is
     port( 
 	  vinf1  : in  std_logic_vector(exponentBits+mantissaBits-1 downto 0);
      vinf2  : in  std_logic_vector(exponentBits+mantissaBits-1 downto 0);
-   voutf0 : out std_logic_vector(exponentBits+mantissaBits-1 downto 0);
+   voutf0 : out std_logic_vector(exponentBits+mantissaBits-1 downto 0)
         );
 end ProductNode_Float;
 
